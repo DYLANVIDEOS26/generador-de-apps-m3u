@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://www.open-epg.com/generate/yhpXUCvrVk.xml.gz"
+
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/TVPER/EXPORTACION_WEB/SS/TVPER_t-290x163.png" group-title="Todos", 7 TV PERÚ
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/TVPERUHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal Claro.sv" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/CANALCLARO/EXPORTACION_WEB/SS/CANALCLARO_t-290x163.png" group-title="Todos", 100 CANAL CLARO
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/CANALCLAROHD/hls_fk/index.m3u8
+
