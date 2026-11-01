@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="Claro Video Perú EPG Generator" generator-info-url="https://www.clarovideo.com">
+
+  <!-- ==================== DEFINICIÓN DE CANALES ==================== -->
+  
+  <channel id="4clarovideo.pe">
+    <display-name lang="es">AMERICA HD</display-name>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHD_t-290x163.png"/>
+  </channel>
+
+  <channel id="5clarovideo.pe">
+    <display-name lang="es">PANAMERICANA</display-name>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANA_t-290x163.png"/>
+  </channel>
+
+  <channel id="12clarovideo.pe">
+    <display-name lang="es">WILLAX</display-name>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAX_t-290x163.png"/>
+  </channel>
+
+  <channel id="14clarovideo.pe">
+    <display-name lang="es">TV PERÚ 7.3</display-name>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73_t-290x163.png"/>
+  </channel>
+
+
+  <!-- ==================== PROGRAMACIÓN EPG (31 OCT - 8 NOV 2026) ==================== -->
+
+  <!-- ==================== 1. AMERICA HD (4clarovideo.pe) ==================== -->
+
+  <!-- Sábado 31 de Octubre (Fin de semana) -->
+  <programme start="20261031000000 -0500" stop="20261031060000 -0500" channel="4clarovideo.pe"><title lang="es">América TV</title></programme>
+  <programme start="20261031060000 -0500" stop="20261031120000 -0500" channel="4clarovideo.pe"><title lang="es">América TV</title></programme>
+  <programme start="20261031120000 -0500" stop="20261031180000 -0500" channel="4clarovideo.pe"><title lang="es">América TV</title></programme>
+  <programme start="20261031180000 -0500" stop="20261101000000 -0500" channel="4clarovideo.pe"><title lang="es">América TV</title></programme>
+
+  <!-- Domingo 1 de Noviembre (Fin de semana) -->
+  <programme start="20261101000000 -0500" stop="20261101060000 -0500" channel="4clarovideo.pe"><title lang="es">América TV</title></programme>
+  <programme start="20261101060000 -0500" stop="20261101120000 -0500" channel="4clarovideo.pe"><title lang="es">América TV</title></programme>
+  <programme start="20261101120000 -0500" stop="20261101180000 -0500" channel="4clarovideo.pe"><title lang="es">América TV</title></programme>
+  <programme start="20261101180000 -0500" stop="20261102000000 -0500" channel="4clarovideo.pe"><title lang="es">América TV</title></programme>
+
+  <!-- Lunes 2 de Noviembre -->
+  <programme start="20261102000000 -0500" stop="20261102010000 -0500" channel="4clarovideo.pe"><title lang="es">América TV</title></programme>
+  <programme start="20261102010000 -0500" stop="20261102020000 -0500" channel="4clarovideo.pe"><title lang="es">AN: Edición Dominical</title></programme>
+  <programme start="20261102020000 -0500" stop="20261102033000 -0500" channel="4clarovideo.pe"><title lang="es">AN: Edición Dominical</title></programme>
+  <programme start="20261102033000 -0500" stop="20261102050000 -0500" channel="4clarovideo.pe"><title lang="es">Cuarto Poder</title></programme>
+  <programme start="20261102050000 -0500" stop="20261102070000 -0500" channel="4clarovideo.pe"><title lang="es">AN: Primera Edición Local</title></programme>
+  <programme start="20261102070000 -0500" stop="20261102085000 -0500" channel="4clarovideo.pe"><title lang="es">AN: Primera Edición</title></programme>
+  <programme start="20261102085000 -0500" stop="20261102091000 -0500" channel="4clarovideo.pe"><title lang="es">América Deportes</title></programme>
+  <programme start="20261102091000 -0500" stop="20261102093000 -0500" channel="4clarovideo.pe"><title lang="es">América Espectáculos</title></programme>
+  <programme start="20261102093000 -0500" stop="20261102110000 -0500" channel="4clarovideo.pe"><title lang="es">América Hoy</title></programme>
+  <programme start="20261102110000 -0500" stop="20261102120000 -0500" channel="4clarovideo.pe"><title lang="es">Más Espectáculos</title></programme>
+  <programme start="20261102120000 -0500" stop="20261102123500 -0500" channel="4clarovideo.pe"><title lang="es">AN: Edición Mediodia</title></programme>
+  <programme start="20261102123500 -0500" stop="20261102124500 -0500" channel="4clarovideo.pe"><title lang="es">América Deportes</title></programme>
+  <programme start="20261102124500 -0500" stop="20261102130000 -0500" channel="4clarovideo.pe"><title lang="es">América Espectáculos</title></programme>
+  <programme start="20261102130000 -0500" stop="20261102134000 -0500" channel="4clarovideo.pe"><title lang="es">Destilando Amor</title></programme>
+  <programme start="20261102134000 -0500" stop="20261102151000 -0500" channel="4clarovideo.pe"><title lang="es">Mande Quien Mande</title></programme>
+  <programme start="20261102151000 -0500" stop="20261102160000 -0500" channel="4clarovideo.pe"><title lang="es">Al Fondo Hay Sitio</title></programme>
+  <programme start="20261102160000 -0500" stop="20261102170000 -0500" channel="4clarovideo.pe"><title lang="es">Los Hilos Del Pasado</title></programme>
+  <programme start="20261102170000 -0500" stop="20261102180000 -0500" channel="4clarovideo.pe"><title lang="es">El Chavo Del Ocho</title></programme>
+  <programme start="20261102180000 -0500" stop="20261102193000 -0500" channel="4clarovideo.pe"><title lang="es">Los Milagros De La Rosa</title></programme>
+  <programme start="20261102193000 -0500" stop="20261102210000 -0500" channel="4clarovideo.pe"><title lang="es">Esto Es Guerra</title></programme>
+  <programme start="20261102210000 -0500" stop="20261102220000 -0500" channel="4clarovideo.pe"><title lang="es">Al Fondo Hay Sitio</title></programme>
+  <programme start="20261102220000 -0500" stop="20261102230000 -0500" channel="4clarovideo.pe"><title lang="es">La Vida Que Me Robaste</title></programme>
+  <programme start="20261102230000 -0500" stop="20261102231700 -0500" channel="4clarovideo.pe"><title lang="es">AN: Edición Central</title></programme>
+  <programme start="20261102231700 -0500" stop="20261102232400 -0500" channel="4clarovideo.pe"><title lang="es">América Deportes</title></programme>
+  <programme start="20261102232400 -0500" stop="20261102232700 -0500" channel="4clarovideo.pe"><title lang="es">AN: Edición Central</title></programme>
+  <programme start="20261102232700 -0500" stop="20261103000000 -0500" channel="4clarovideo.pe"><title lang="es">América Espectáculos</title></programme>
+
+  <!-- Martes 3 de Noviembre -->
+  <programme start="20261103000000 -0500" stop="20261103023000 -0500" channel="4clarovideo.pe"><title lang="es">América TV</title></programme>
+  <programme start="20261103023000 -0500" stop="20261103033000 -0500" channel="4clarovideo.pe"><title lang="es">Más Espectáculos</title></programme>
+  <programme start="20261103033000 -0500" stop="20261103050000 -0500" channel="4clarovideo.pe"><title lang="es">Mande Quien Mande</title></programme>
+  <programme start="20261103050000 -0500" stop="20261103070000 -0500" channel="4clarovideo.pe"><title lang="es">AN: Primera Edición Local</title></programme>
+  <programme start="20261103070000 -0500" stop="20261103085000 -0500" channel="4clarovideo.pe"><title lang="es">AN: Primera Edición</title></programme>
+  <programme start="20261103085000 -0500" stop="20261103091000 -0500" channel="4clarovideo.pe"><title lang="es">América Deportes</title></programme>
+  <programme start="20261103091000 -0500" stop="20261103093000 -0500" channel="4clarovideo.pe"><title lang="es">América Espectáculos</title></programme>
+  <programme start="20261103093000 -0500" stop="20261103110000 -0500" channel="4clarovideo.pe"><title lang="es">América Hoy</title></programme>
+  <programme start="20261103110000 -0500" stop="20261103120000 -0500" channel="4clarovideo.pe"><title lang="es">Más Espectáculos</title></programme>
+  <programme start="20261103120000 -0500" stop="20261103123500 -0500" channel="4clarovideo.pe"><title lang="es">AN: Edición Mediodia</title></programme>
+  <programme start="20261103123500 -0500" stop="20261103124500 -0500" channel="4clarovideo.pe"><title lang="es">América Deportes</title></programme>
+  <programme start="20261103124500 -0500" stop="20261103130000 -0500" channel="4clarovideo.pe"><title lang="es">América Espectáculos</title></programme>
+  <programme start="20261103130000 -0500" stop="20261103134000 -0500" channel="4clarovideo.pe"><title lang="es">Destilando Amor</title></programme>
+  <programme start="20261103134000 -0500" stop="20261103151000 -0500" channel="4clarovideo.pe"><title lang="es">Mande Quien Mande</title></programme>
+  <programme start="20261103151000 -0500" stop="20261103160000 -0500" channel="4clarovideo.pe"><title lang="es">Al Fondo Hay Sitio</title></programme>
+  <programme start="20261103160000 -0500" stop="20261103170000 -0500" channel="4clarovideo.pe"><title lang="es">Los Hilos Del Pasado</title></programme>
+  <programme start="20261103170000 -0500" stop="20261103180000 -0500" channel="4clarovideo.pe"><title lang="es">El Chavo Del Ocho</title></programme>
+  <programme start="20261103180000 -0500" stop="20261103193000 -0500" channel="4clarovideo.pe"><title lang="es">Los Milagros De La Rosa</title></programme>
+  <programme start="20261103193000 -0500" stop="20261103210000 -0500" channel="4clarovideo.pe"><title lang="es">Esto Es Guerra</title></programme>
+  <programme start="20261103210000 -0500" stop="20261103220000 -0500" channel="4clarovideo.pe"><title lang="es">Al Fondo Hay Sitio</title></programme>
+  <programme start="20261103220000 -0500" stop="20261103225000 -0500" channel="4clarovideo.pe"><title lang="es">La Vida Que Me Robaste</title></programme>
+  <programme start="20261103225000 -0500" stop="20261103230000 -0500" channel="4clarovideo.pe"><title lang="es">La Tinka</title></programme>
+  <programme start="20261103230000 -0500" stop="20261103231700 -0500" channel="4clarovideo.pe"><title lang="es">AN: Edición Central</title></programme>
+  <programme start="20261103231700 -0500" stop="20261103232400 -0500" channel="4clarovideo.pe"><title lang="es">América Deportes</title></programme>
+  <programme start="20261103232400 -0500" stop="20261103232700 -0500" channel="4clarovideo.pe"><title lang="es">AN: Edición Central</title></programme>
+  <programme start="20261103232700 -0500" stop="20261103234500 -0500" channel="4clarovideo.pe"><title lang="es">América Espectáculos</title></programme>
+  <programme start="20261103234500 -0500" stop="20261104000000 -0500" channel="4clarovideo.pe"><title lang="es">Desvelados</title></programme>
+
+  <!-- Miércoles 4 de Noviembre -->
+  <programme start="20261104000000 -0500" stop="20261104023000 -0500" channel="4clarovideo.pe"><title lang="es">América TV</title></programme>
+  <programme start="20261104023000 -0500" stop="20261104033000 -0500" channel="4clarovideo.pe"><title lang="es">Más Espectáculos</title></programme>
+  <programme start="20261104033000 -0500" stop="20261104050000 -0500" channel="4clarovideo.pe"><title lang="es">Mande Quien Mande</title></programme>
+  <programme start="20261104050000 -0500" stop="20261104070000 -0500" channel="4clarovideo.pe"><title lang="es">AN: Primera Edición Local</title></programme>
+  <programme start="20261104070000 -0500" stop="20261104085000 -0500" channel="4clarovideo.pe"><title lang="es">AN: Primera Edición</title></programme>
+  <programme start="20261104085000 -0500" stop="20261104091000 -0500" channel="4clarovideo.pe"><title lang="es">América Deportes</title></programme>
+  <programme start="20261104091000 -0500" stop="20261104093000 -0500" channel="4clarovideo.pe"><title lang="es">América Espectáculos</title></programme>
+  <programme start="20261104093000 -0500" stop="20261104110000 -0500" channel="4clarovideo.pe"><title lang="es">América Hoy</title></programme>
+  <programme start="20261104110000 -0500" stop="20261104120000 -0500" channel="4clarovideo.pe"><title lang="es">Más Espectáculos</title></programme>
+  <programme start="20261104120000 -0500" stop="20261104123500 -0500" channel="4clarovideo.pe"><title lang="es">AN: Edición Mediodia</title></programme>
+  <programme start="20261104123500 -0500" stop="20261104124500 -0500" channel="4clarovideo.pe"><title lang="es">América Deportes</title></programme>
+  <programme start="20261104124500 -0500" stop="20261104130000 -0500" channel="4clarovideo.pe"><title lang="es">América Espectáculos</title></programme>
+  <programme start="20261104130000 -0500" stop="20261104134000 -0500" channel="4clarovideo.pe"><title lang="es">Destilando Amor</title></programme>
+  <programme start="20261104134000 -0500" stop="20261104151000 -0500" channel="4clarovideo.pe"><title lang="es">Mande Quien Mande</title></programme>
+  <programme start="20261104151000 -0500" stop="20261104160000 -0500" channel="4clarovideo.pe"><title lang="es">Al Fondo Hay Sitio</title></programme>
+  <programme start="20261104160000 -0500" stop="20261104170000 -0500" channel="4clarovideo.pe"><title lang="es">Los Hilos Del Pasado</title></programme>
+  <programme start="20261104170000 -0500" stop="20261104180000 -0500" channel="4clarovideo.pe"><title lang="es">El Chavo Del Ocho</title></programme>
+  <programme start="20261104180000 -0500" stop="20261104193000 -0500" channel="4clarovideo.pe"><title lang="es">Los Milagros De La Rosa</title></programme>
+  <programme start="20261104193000 -0500" stop="20261104210000 -0500" channel="4clarovideo.pe"><title lang="es">Esto Es Guerra</title></programme>
+  <programme start="20261104210000 -0500" stop="20261104220000 -0500" channel="4clarovideo.pe"><title lang="es">Al Fondo Hay Sitio</title></programme>
+  <programme start="20261104220000 -0500" stop="20261104225000 -0500" channel="4clarovideo.pe"><title lang="es">La Vida Que Me Robaste</title></programme>
+  <programme start="20261104225000 -0500" stop="20261104230000 -0500" channel="4clarovideo.pe"><title lang="es">La Tinka</title></programme>
+  <programme start="20261104230000 -0500" stop="20261104231700 -0500" channel="4clarovideo.pe"><title lang="es">AN: Edición Central</title></programme>
+  <programme start="20261104231700 -0500" stop="20261104232400 -0500" channel="4clarovideo.pe"><title lang="es">América Deportes</title></programme>
+  <programme start="20261104232400 -0500" stop="20261104232700 -0500" channel="4clarovideo.pe"><title lang="es">AN: Edición Central</title></programme>
+  <programme start="20261104232700 -0500" stop="20261104234500 -0500" channel="4clarovideo.pe"><title lang="es">América Espectáculos</title></programme>
+  <programme start="20261104234500 -0500" stop="20261105000000 -0500" channel="4clarovideo.pe"><title lang="es">Desvelados</title></programme>
+
+  <!-- Jueves 5 de Noviembre -->
+  <programme start="20261105000000 -0500" stop="20261105023000 -0500" channel="4clarovideo.pe"><title lang="es">América TV</title></programme>
+  <programme start="20261105023000 -0500" stop="20261105033000 -0500" channel="4clarovideo.pe"><title lang="es">Más Espectáculos</title></programme>
+  <programme start="20261105033000 -0500" stop="20261105050000 -0500" channel="4clarovideo.pe"><title lang="es">Mande Quien Mande</title></programme>
+  <programme start="20261105050000 -0500" stop="20261105070000 -0500" channel="4clarovideo.pe"><title lang="es">AN: Primera Edición Local</title></programme>
+  <programme start="20261105070000 -0500" stop="20261105085000 -0500" channel="4clarovideo.pe"><title lang="es">AN: Primera Edición</title></programme>
+  <programme start="20261105085000 -0500" stop="20261105091000 -0500" channel="4clarovideo.pe"><title lang="es">América Deportes</title></programme>
+  <programme start="20261105091000 -0500" stop="20261105093000 -0500" channel="4clarovideo.pe"><title lang="es">América Espectáculos</title></programme>
+  <programme start="20261105093000 -0500" stop="20261105110000 -0500" channel="4clarovideo.pe"><title lang="es">América Hoy</title></programme>
+  <programme start="20261105110000 -0500" stop="20261105120000 -0500" channel="4clarovideo.pe"><title lang="es">Más Espectáculos</title></programme>
+  <programme start="20261105120000 -0500" stop="20261105123500 -0500" channel="4clarovideo.pe"><title lang="es">AN: Edición Mediodia</title></programme>
+  <programme start="20261105123500 -0500" stop="20261105124500 -0500" channel="4clarovideo.pe"><title lang="es">América Deportes</title></programme>
+  <programme start="20261105124500 -0500" stop="20261105130000 -0500" channel="4clarovideo.pe"><title lang="es">América Espectáculos</title></programme>
+  <programme start="20261105130000 -0500" stop="20261105134000 -0500" channel="4clarovideo.pe"><title lang="es">Destilando Amor</title></programme>
+  <programme start="20261105134000 -0500" stop="20261105151000 -0500" channel="4clarovideo.pe"><title lang="es">Mande Quien Mande</title></programme>
+  <programme start="20261105151000 -0500" stop="20261105160000 -0500" channel="4clarovideo.pe"><title lang="es">Al Fondo Hay Sitio</title></programme>
+  <programme start="20261105160000 -0500" stop="20261105170000 -0500" channel="4clarovideo.pe"><title lang="es">Los Hilos Del Pasado</title></programme>
+  <programme start="20261105170000 -0500" stop="20261105180000 -0500" channel="4clarovideo.pe"><title lang="es">El Chavo Del Ocho</title></programme>
+  <programme start="20261105180000 -0500" stop="20261105193000 -0500" channel="4clarovideo.pe"><title lang="es">Los Milagros De La Rosa</title></programme>
+  <programme start="20261105193000 -0500" stop="20261105210000 -0500" channel="4clarovideo.pe"><title lang="es">Esto Es Guerra</title></programme>
+  <programme start="20261105210000 -0500" stop="20261105220000 -0500" channel="4clarovideo.pe"><title lang="es">Al Fondo Hay Sitio</title></programme>
+  <programme start="20261105220000 -0500" stop="20261105225000 -0500" channel="4clarovideo.pe"><title lang="es">La Vida Que Me Robaste</title></programme>
+  <programme start="20261105225000 -0500" stop="20261105230000 -0500" channel="4clarovideo.pe"><title lang="es">La Tinka</title></programme>
+  <programme start="20261105230000 -0500" stop="20261105231700 -0500" channel="4clarovideo.pe"><title lang="es">AN: Edición Central</title></programme>
+  <programme start="20261105231700 -0500" stop="20261105232400 -0500" channel="4clarovideo.pe"><title lang="es">América Deportes</title></programme>
+  <programme start="20261105232400 -0500" stop="20261105232700 -0500" channel="4clarovideo.pe"><title lang="es">AN: Edición Central</title></programme>
+  <programme start="20261105232700 -0500" stop="20261105234500 -0500" channel="4clarovideo.pe"><title lang="es">América Espectáculos</title></programme>
+  <programme start="20261105234500 -0500" stop="20261106000000 -0500" channel="4clarovideo.pe"><title lang="es">Desvelados</title></programme>
+
+  <!-- Viernes 6 de Noviembre -->
+  <programme start="20261106000000 -0500" stop="20261106023000 -0500" channel="4clarovideo.pe"><title lang="es">América TV</title></programme>
+  <programme start="20261106023000 -0500" stop="20261106033000 -0500" channel="4clarovideo.pe"><title lang="es">Más Espectáculos</title></programme>
+  <programme start="20261106033000 -0500" stop="20261106050000 -0500" channel="4clarovideo.pe"><title lang="es">Mande Quien Mande</title></programme>
+  <programme start="20261106050000 -0500" stop="20261106070000 -0500" channel="4clarovideo.pe"><title lang="es">AN: Primera Edición Local</title></programme>
+  <programme start="20261106070000 -0500" stop="20261106085000 -0500" channel="4clarovideo.pe"><title lang="es">AN: Primera Edición</title></programme>
+  <programme start="20261106085000 -0500" stop="20261106091000 -0500" channel="4clarovideo.pe"><title lang="es">América Deportes</title></programme>
+  <programme start="20261106091000 -0500" stop="20261106093000 -0500" channel="4clarovideo.pe"><title lang="es">América Espectáculos</title></programme>
+  <programme start="20261106093000 -0500" stop="20261106110000 -0500" channel="4clarovideo.pe"><title lang="es">América Hoy</title></programme>
+  <programme start="20261106110000 -0500" stop="20261106120000 -0500" channel="4clarovideo.pe"><title lang="es">Más Espectáculos</title></programme>
+  <programme start="20261106120000 -0500" stop="20261106123500 -0500" channel="4clarovideo.pe"><title lang="es">AN: Edición Mediodia</title></programme>
+  <programme start="20261106123500 -0500" stop="20261106124500 -0500" channel="4clarovideo.pe"><title lang="es">América Deportes</title></programme>
+  <programme start="20261106124500 -0500" stop="20261106130000 -0500" channel="4clarovideo.pe"><title lang="es">América Espectáculos</title></programme>
+  <programme start="20261106130000 -0500" stop="20261106134000 -0500" channel="4clarovideo.pe"><title lang="es">Destilando Amor</title></programme>
+  <programme start="20261106134000 -0500" stop="20261106151000 -0500" channel="4clarovideo.pe"><title lang="es">Mande Quien Mande</title></programme>
+  <programme start="20261106151000 -0500" stop="20261106160000 -0500" channel="4clarovideo.pe"><title lang="es">Al Fondo Hay Sitio</title></programme>
+  <programme start="20261106160000 -0500" stop="20261106170000 -0500" channel="4clarovideo.pe"><title lang="es">Los Hilos Del Pasado</title></programme>
+  <programme start="20261106170000 -0500" stop="20261106180000 -0500" channel="4clarovideo.pe"><title lang="es">El Chavo Del Ocho</title></programme>
+  <programme start="20261106180000 -0500" stop="20261106193000 -0500" channel="4clarovideo.pe"><title lang="es">Los Milagros De La Rosa</title></programme>
+  <programme start="20261106193000 -0500" stop="20261106210000 -0500" channel="4clarovideo.pe"><title lang="es">Esto Es Guerra</title></programme>
+  <programme start="20261106210000 -0500" stop="20261106220000 -0500" channel="4clarovideo.pe"><title lang="es">Al Fondo Hay Sitio</title></programme>
+  <programme start="20261106220000 -0500" stop="20261106225000 -0500" channel="4clarovideo.pe"><title lang="es">La Vida Que Me Robaste</title></programme>
+  <programme start="20261106225000 -0500" stop="20261106230000 -0500" channel="4clarovideo.pe"><title lang="es">La Tinka</title></programme>
+  <programme start="20261106230000 -0500" stop="20261106231700 -0500" channel="4clarovideo.pe"><title lang="es">AN: Edición Central</title></programme>
+  <programme start="20261106231700 -0500" stop="20261106232400 -0500" channel="4clarovideo.pe"><title lang="es">América Deportes</title></programme>
+  <programme start="20261106232400 -0500" stop="20261106232700 -0500" channel="4clarovideo.pe"><title lang="es">AN: Edición Central</title></programme>
+  <programme start="20261106232700 -0500" stop="20261106234500 -0500" channel="4clarovideo.pe"><title lang="es">América Espectáculos</title></programme>
+  <programme start="20261106234500 -0500" stop="20261107000000 -0500" channel="4clarovideo.pe"><title lang="es">Desvelados</title></programme>
+
+  <!-- Sábado 7 de Noviembre -->
+  <programme start="20261107000000 -0500" stop="20261107060000 -0500" channel="4clarovideo.pe"><title lang="es">América TV</title></programme>
+  <programme start="20261107060000 -0500" stop="20261107120000 -0500" channel="4clarovideo.pe"><title lang="es">América TV</title></programme>
+  <programme start="20261107120000 -0500" stop="20261107180000 -0500" channel="4clarovideo.pe"><title lang="es">América TV</title></programme>
+  <programme start="20261107180000 -0500" stop="20261108000000 -0500" channel="4clarovideo.pe"><title lang="es">América TV</title></programme>
+
+  <!-- Domingo 8 de Noviembre -->
+  <programme start="20261108000000 -0500" stop="20261108060000 -0500" channel="4clarovideo.pe"><title lang="es">América TV</title></programme>
+  <programme start="20261108060000 -0500" stop="20261108120000 -0500" channel="4clarovideo.pe"><title lang="es">América TV</title></programme>
+  <programme start="20261108120000 -0500" stop="20261108180000 -0500" channel="4clarovideo.pe"><title lang="es">América TV</title></programme>
+  <programme start="20261108180000 -0500" stop="20261109000000 -0500" channel="4clarovideo.pe"><title lang="es">América TV</title></programme>
+
+
+  <!-- ==================== 2. PANAMERICANA (5clarovideo.pe) ==================== -->
+
+  <!-- Sábado 31 de Octubre -->
+  <programme start="20261031000000 -0500" stop="20261031060000 -0500" channel="5clarovideo.pe"><title lang="es">Panamericana</title></programme>
+  <programme start="20261031060000 -0500" stop="20261031120000 -0500" channel="5clarovideo.pe"><title lang="es">Panamericana</title></programme>
+  <programme start="20261031120000 -0500" stop="20261031180000 -0500" channel="5clarovideo.pe"><title lang="es">Panamericana</title></programme>
+  <programme start="20261031180000 -0500" stop="20261101000000 -0500" channel="5clarovideo.pe"><title lang="es">Panamericana</title></programme>
+
+  <!-- Domingo 1 de Noviembre -->
+  <programme start="20261101000000 -0500" stop="20261101060000 -0500" channel="5clarovideo.pe"><title lang="es">Panamericana</title></programme>
+  <programme start="20261101060000 -0500" stop="20261101120000 -0500" channel="5clarovideo.pe"><title lang="es">Panamericana</title></programme>
+  <programme start="20261101120000 -0500" stop="20261101180000 -0500" channel="5clarovideo.pe"><title lang="es">Panamericana</title></programme>
+  <programme start="20261101180000 -0500" stop="20261102000000 -0500" channel="5clarovideo.pe"><title lang="es">Panamericana</title></programme>
+
+  <!-- Lunes 2 de Noviembre -->
+  <programme start="20261102000000 -0500" stop="20261102010000 -0500" channel="5clarovideo.pe"><title lang="es">Cazador De Talentos</title></programme>
+  <programme start="20261102010000 -0500" stop="20261102050000 -0500" channel="5clarovideo.pe"><title lang="es">Geoherbal</title></programme>
+  <programme start="20261102050000 -0500" stop="20261102053000 -0500" channel="5clarovideo.pe"><title lang="es">Telebrands</title></programme>
+  <programme start="20261102053000 -0500" stop="20261102060000 -0500" channel="5clarovideo.pe"><title lang="es">Buenos Días Perú Nacional</title></programme>
+  <programme start="20261102060000 -0500" stop="20261102073000 -0500" channel="5clarovideo.pe"><title lang="es">Buenos Días Perú Primera Edición</title></programme>
+  <programme start="20261102073000 -0500" stop="20261102093000 -0500" channel="5clarovideo.pe"><title lang="es">Buenos Días Perú Segunda Edición</title></programme>
+  <programme start="20261102093000 -0500" stop="20261102100000 -0500" channel="5clarovideo.pe"><title lang="es">Quality Products</title></programme>
+  <programme start="20261102100000 -0500" stop="20261102101500 -0500" channel="5clarovideo.pe"><title lang="es">Fitosana</title></programme>
+  <programme start="20261102101500 -0500" stop="20261102104500 -0500" channel="5clarovideo.pe"><title lang="es">Telebrands</title></programme>
+  <programme start="20261102104500 -0500" stop="20261102120000 -0500" channel="5clarovideo.pe"><title lang="es">Detrás De Cámaras</title></programme>
+  <programme start="20261102120000 -0500" stop="20261102130000 -0500" channel="5clarovideo.pe"><title lang="es">24 Horas Primera Edición Medio Día</title></programme>
+  <programme start="20261102130000 -0500" stop="20261102150000 -0500" channel="5clarovideo.pe"><title lang="es">24 Horas Edición Medio Día</title></programme>
+  <programme start="20261102150000 -0500" stop="20261102163000 -0500" channel="5clarovideo.pe"><title lang="es">La Calle No Calla</title></programme>
+  <programme start="20261102163000 -0500" stop="20261102173000 -0500" channel="5clarovideo.pe"><title lang="es">La Hija Del Mariachi</title></programme>
+  <programme start="20261102173000 -0500" stop="20261102183000 -0500" channel="5clarovideo.pe"><title lang="es">Ana De Nadie</title></programme>
+  <programme start="20261102183000 -0500" stop="20261102193000 -0500" channel="5clarovideo.pe"><title lang="es">La Familia Ingalls</title></programme>
+  <programme start="20261102193000 -0500" stop="20261102203000 -0500" channel="5clarovideo.pe"><title lang="es">Novelas Bíblicas</title></programme>
+  <programme start="20261102203000 -0500" stop="20261102220000 -0500" channel="5clarovideo.pe"><title lang="es">24 Horas Edición Central</title></programme>
+  <programme start="20261102220000 -0500" stop="20261102230000 -0500" channel="5clarovideo.pe"><title lang="es">Esta Noche</title></programme>
+  <programme start="20261102230000 -0500" stop="20261102234500 -0500" channel="5clarovideo.pe"><title lang="es">Vale Todo</title></programme>
+  <programme start="20261102234500 -0500" stop="20261103000000 -0500" channel="5clarovideo.pe"><title lang="es">Macgyver</title></programme>
+
+  <!-- Martes 3 de Noviembre -->
+  <programme start="20261103000000 -0500" stop="20261103003000 -0500" channel="5clarovideo.pe"><title lang="es">Macgyver</title></programme>
+  <programme start="20261103003000 -0500" stop="20261103050000 -0500" channel="5clarovideo.pe"><title lang="es">Geoherbal</title></programme>
+  <programme start="20261103050000 -0500" stop="20261103053000 -0500" channel="5clarovideo.pe"><title lang="es">Telebrands</title></programme>
+  <programme start="20261103053000 -0500" stop="20261103060000 -0500" channel="5clarovideo.pe"><title lang="es">Buenos Días Perú Nacional</title></programme>
+  <programme start="20261103060000 -0500" stop="20261103073000 -0500" channel="5clarovideo.pe"><title lang="es">Buenos Días Perú Primera Edición</title></programme>
+  <programme start="20261103073000 -0500" stop="20261103093000 -0500" channel="5clarovideo.pe"><title lang="es">Buenos Días Perú Segunda Edición</title></programme>
+  <programme start="20261103093000 -0500" stop="20261103100000 -0500" channel="5clarovideo.pe"><title lang="es">Quality Products</title></programme>
+  <programme start="20261103100000 -0500" stop="20261103101500 -0500" channel="5clarovideo.pe"><title lang="es">Fitosana</title></programme>
+  <programme start="20261103101500 -0500" stop="20261103104500 -0500" channel="5clarovideo.pe"><title lang="es">Telebrands</title></programme>
+  <programme start="20261103104500 -0500" stop="20261103120000 -0500" channel="5clarovideo.pe"><title lang="es">Detrás De Cámaras</title></programme>
+  <programme start="20261103120000 -0500" stop="20261103130000 -0500" channel="5clarovideo.pe"><title lang="es">24 Horas Primera Edición Medio Día</title></programme>
+  <programme start="20261103130000 -0500" stop="20261103150000 -0500" channel="5clarovideo.pe"><title lang="es">24 Horas Edición Medio Día</title></programme>
+  <programme start="20261103150000 -0500" stop="20261103163000 -0500" channel="5clarovideo.pe"><title lang="es">La Calle No Calla</title></programme>
+  <programme start="20261103163000 -0500" stop="20261103173000 -0500" channel="5clarovideo.pe"><title lang="es">La Hija Del Mariachi</title></programme>
+  <programme start="20261103173000 -0500" stop="20261103183000 -0500" channel="5clarovideo.pe"><title lang="es">Ana De Nadie</title></programme>
+  <programme start="20261103183000 -0500" stop="20261103193000 -0500" channel="5clarovideo.pe"><title lang="es">La Familia Ingalls</title></programme>
+  <programme start="20261103193000 -0500" stop="20261103203000 -0500" channel="5clarovideo.pe"><title lang="es">Novelas Bíblicas</title></programme>
+  <programme start="20261103203000 -0500" stop="20261103220000 -0500" channel="5clarovideo.pe"><title lang="es">24 Horas Edición Central</title></programme>
+  <programme start="20261103220000 -0500" stop="20261103230000 -0500" channel="5clarovideo.pe"><title lang="es">Esta Noche</title></programme>
+  <programme start="20261103230000 -0500" stop="20261103234500 -0500" channel="5clarovideo.pe"><title lang="es">Vale Todo</title></programme>
+  <programme start="20261103234500 -0500" stop="20261104000000 -0500" channel="5clarovideo.pe"><title lang="es">Macgyver</title></programme>
+
+  <!-- Miércoles 4 de Noviembre (Martes a Jueves) -->
+  <programme start="20261104000000 -0500" stop="20261104003000 -0500" channel="5clarovideo.pe"><title lang="es">Macgyver</title></programme>
+  <programme start="20261104003000 -0500" stop="20261104050000 -0500" channel="5clarovideo.pe"><title lang="es">Geoherbal</title></programme>
+  <programme start="20261104050000 -0500" stop="20261104053000 -0500" channel="5clarovideo.pe"><title lang="es">Telebrands</title></programme>
+  <programme start="20261104053000 -0500" stop="20261104060000 -0500" channel="5clarovideo.pe"><title lang="es">Buenos Días Perú Nacional</title></programme>
+  <programme start="20261104060000 -0500" stop="20261104073000 -0500" channel="5clarovideo.pe"><title lang="es">Buenos Días Perú Primera Edición</title></programme>
+  <programme start="20261104073000 -0500" stop="20261104093000 -0500" channel="5clarovideo.pe"><title lang="es">Buenos Días Perú Segunda Edición</title></programme>
+  <programme start="20261104093000 -0500" stop="20261104100000 -0500" channel="5clarovideo.pe"><title lang="es">Quality Products</title></programme>
+  <programme start="20261104100000 -0500" stop="20261104101500 -0500" channel="5clarovideo.pe"><title lang="es">Fitosana</title></programme>
+  <programme start="20261104101500 -0500" stop="20261104104500 -0500" channel="5clarovideo.pe"><title lang="es">Telebrands</title></programme>
+  <programme start="20261104104500 -0500" stop="20261104120000 -0500" channel="5clarovideo.pe"><title lang="es">Detrás De Cámaras</title></programme>
+  <programme start="20261104120000 -0500" stop="20261104130000 -0500" channel="5clarovideo.pe"><title lang="es">24 Horas Primera Edición Medio Día</title></programme>
+  <programme start="20261104130000 -0500" stop="20261104150000 -0500" channel="5clarovideo.pe"><title lang="es">24 Horas Edición Medio Día</title></programme>
+  <programme start="20261104150000 -0500" stop="20261104163000 -0500" channel="5clarovideo.pe"><title lang="es">La Calle No Calla</title></programme>
+  <programme start="20261104163000 -0500" stop="20261104173000 -0500" channel="5clarovideo.pe"><title lang="es">La Hija Del Mariachi</title></programme>
+  <programme start="20261104173000 -0500" stop="20261104183000 -0500" channel="5clarovideo.pe"><title lang="es">Ana De Nadie</title></programme>
+  <programme start="20261104183000 -0500" stop="20261104193000 -0500" channel="5clarovideo.pe"><title lang="es">La Familia Ingalls</title></programme>
+  <programme start="20261104193000 -0500" stop="20261104203000 -0500" channel="5clarovideo.pe"><title lang="es">Novelas Bíblicas</title></programme>
+  <programme start="20261104203000 -0500" stop="20261104220000 -0500" channel="5clarovideo.pe"><title lang="es">24 Horas Edición Central</title></programme>
+  <programme start="20261104220000 -0500" stop="20261104230000 -0500" channel="5clarovideo.pe"><title lang="es">Esta Noche</title></programme>
+  <programme start="20261104230000 -0500" stop="20261104234500 -0500" channel="5clarovideo.pe"><title lang="es">Vale Todo</title></programme>
+  <programme start="20261104234500 -0500" stop="20261105000000 -0500" channel="5clarovideo.pe"><title lang="es">Macgyver</title></programme>
+
+  <!-- Jueves 5 de Noviembre (Martes a Jueves) -->
+  <programme start="20261105000000 -0500" stop="20261105003000 -0500" channel="5clarovideo.pe"><title lang="es">Macgyver</title></programme>
+  <programme start="20261105003000 -0500" stop="20261105050000 -0500" channel="5clarovideo.pe"><title lang="es">Geoherbal</title></programme>
+  <programme start="20261105050000 -0500" stop="20261105053000 -0500" channel="5clarovideo.pe"><title lang="es">Telebrands</title></programme>
+  <programme start="20261105053000 -0500" stop="20261105060000 -0500" channel="5clarovideo.pe"><title lang="es">Buenos Días Perú Nacional</title></programme>
+  <programme start="20261105060000 -0500" stop="20261105073000 -0500" channel="5clarovideo.pe"><title lang="es">Buenos Días Perú Primera Edición</title></programme>
+  <programme start="20261105073000 -0500" stop="20261105093000 -0500" channel="5clarovideo.pe"><title lang="es">Buenos Días Perú Segunda Edición</title></programme>
+  <programme start="20261105093000 -0500" stop="20261105100000 -0500" channel="5clarovideo.pe"><title lang="es">Quality Products</title></programme>
+  <programme start="20261105100000 -0500" stop="20261105101500 -0500" channel="5clarovideo.pe"><title lang="es">Fitosana</title></programme>
+  <programme start="20261105101500 -0500" stop="20261105104500 -0500" channel="5clarovideo.pe"><title lang="es">Telebrands</title></programme>
+  <programme start="20261105104500 -0500" stop="20261105120000 -0500" channel="5clarovideo.pe"><title lang="es">Detrás De Cámaras</title></programme>
+  <programme start="20261105120000 -0500" stop="20261105130000 -0500" channel="5clarovideo.pe"><title lang="es">24 Horas Primera Edición Medio Día</title></programme>
+  <programme start="20261105130000 -0500" stop="20261105150000 -0500" channel="5clarovideo.pe"><title lang="es">24 Horas Edición Medio Día</title></programme>
+  <programme start="20261105150000 -0500" stop="20261105163000 -0500" channel="5clarovideo.pe"><title lang="es">La Calle No Calla</title></programme>
+  <programme start="20261105163000 -0500" stop="20261105173000 -0500" channel="5clarovideo.pe"><title lang="es">La Hija Del Mariachi</title></programme>
+  <programme start="20261105173000 -0500" stop="20261105183000 -0500" channel="5clarovideo.pe"><title lang="es">Ana De Nadie</title></programme>
+  <programme start="20261105183000 -0500" stop="20261105193000 -0500" channel="5clarovideo.pe"><title lang="es">La Familia Ingalls</title></programme>
+  <programme start="20261105193000 -0500" stop="20261105203000 -0500" channel="5clarovideo.pe"><title lang="es">Novelas Bíblicas</title></programme>
+  <programme start="20261105203000 -0500" stop="20261105220000 -0500" channel="5clarovideo.pe"><title lang="es">24 Horas Edición Central</title></programme>
+  <programme start="20261105220000 -0500" stop="20261105230000 -0500" channel="5clarovideo.pe"><title lang="es">Esta Noche</title></programme>
+  <programme start="20261105230000 -0500" stop="20261105234500 -0500" channel="5clarovideo.pe"><title lang="es">Vale Todo</title></programme>
+  <programme start="20261105234500 -0500" stop="20261106000000 -0500" channel="5clarovideo.pe"><title lang="es">Macgyver</title></programme>
+
+  <!-- Viernes 6 de Noviembre -->
+  <programme start="20261106000000 -0500" stop="20261106003000 -0500" channel="5clarovideo.pe"><title lang="es">Macgyver</title></programme>
+  <programme start="20261106003000 -0500" stop="20261106050000 -0500" channel="5clarovideo.pe"><title lang="es">Geoherbal</title></programme>
+  <programme start="20261106050000 -0500" stop="20261106053000 -0500" channel="5clarovideo.pe"><title lang="es">Telebrands</title></programme>
+  <programme start="20261106053000 -0500" stop="20261106060000 -0500" channel="5clarovideo.pe"><title lang="es">Buenos Días Perú Nacional</title></programme>
+  <programme start="20261106060000 -0500" stop="20261106073000 -0500" channel="5clarovideo.pe"><title lang="es">Buenos Días Perú Primera Edición</title></programme>
+  <programme start="20261106073000 -0500" stop="20261106093000 -0500" channel="5clarovideo.pe"><title lang="es">Buenos Días Perú Segunda Edición</title></programme>
+  <programme start="20261106093000 -0500" stop="20261106100000 -0500" channel="5clarovideo.pe"><title lang="es">Quality Products</title></programme>
+  <programme start="20261106100000 -0500" stop="20261106101500 -0500" channel="5clarovideo.pe"><title lang="es">Fitosana</title></programme>
+  <programme start="20261106101500 -0500" stop="20261106104500 -0500" channel="5clarovideo.pe"><title lang="es">Telebrands</title></programme>
+  <programme start="20261106104500 -0500" stop="20261106120000 -0500" channel="5clarovideo.pe"><title lang="es">Detrás De Cámaras</title></programme>
+  <programme start="20261106120000 -0500" stop="20261106130000 -0500" channel="5clarovideo.pe"><title lang="es">24 Horas Primera Edición Medio Día</title></programme>
+  <programme start="20261106130000 -0500" stop="20261106150000 -0500" channel="5clarovideo.pe"><title lang="es">24 Horas Edición Medio Día</title></programme>
+  <programme start="20261106150000 -0500" stop="20261106163000 -0500" channel="5clarovideo.pe"><title lang="es">La Calle No Calla</title></programme>
+  <programme start="20261106163000 -0500" stop="20261106173000 -0500" channel="5clarovideo.pe"><title lang="es">La Hija Del Mariachi</title></programme>
+  <programme start="20261106173000 -0500" stop="20261106183000 -0500" channel="5clarovideo.pe"><title lang="es">Ana De Nadie</title></programme>
+  <programme start="20261106183000 -0500" stop="20261106193000 -0500" channel="5clarovideo.pe"><title lang="es">La Familia Ingalls</title></programme>
+  <programme start="20261106193000 -0500" stop="20261106203000 -0500" channel="5clarovideo.pe"><title lang="es">Novelas Bíblicas</title></programme>
+  <programme start="20261106203000 -0500" stop="20261106220000 -0500" channel="5clarovideo.pe"><title lang="es">24 Horas Edición Central</title></programme>
+  <programme start="20261106220000 -0500" stop="20261106230000 -0500" channel="5clarovideo.pe"><title lang="es">Esta Noche</title></programme>
+  <programme start="20261106230000 -0500" stop="20261107000000 -0500" channel="5clarovideo.pe"><title lang="es">Vale Todo</title></programme>
+
+  <!-- Sábado 7 de Noviembre -->
+  <programme start="20261107000000 -0500" stop="20261107060000 -0500" channel="5clarovideo.pe"><title lang="es">Panamericana</title></programme>
+  <programme start="20261107060000 -0500" stop="20261107120000 -0500" channel="5clarovideo.pe"><title lang="es">Panamericana</title></programme>
+  <programme start="20261107120000 -0500" stop="20261107180000 -0500" channel="5clarovideo.pe"><title lang="es">Panamericana</title></programme>
+  <programme start="20261107180000 -0500" stop="20261108000000 -0500" channel="5clarovideo.pe"><title lang="es">Panamericana</title></programme>
+
+  <!-- Domingo 8 de Noviembre -->
+  <programme start="20261108000000 -0500" stop="20261108060000 -0500" channel="5clarovideo.pe"><title lang="es">Panamericana</title></programme>
+  <programme start="20261108060000 -0500" stop="20261108120000 -0500" channel="5clarovideo.pe"><title lang="es">Panamericana</title></programme>
+  <programme start="20261108120000 -0500" stop="20261108180000 -0500" channel="5clarovideo.pe"><title lang="es">Panamericana</title></programme>
+  <programme start="20261108180000 -0500" stop="20261109000000 -0500" channel="5clarovideo.pe"><title lang="es">Panamericana</title></programme>
+
+
+  <!-- ==================== 3. WILLAX (12clarovideo.pe) ==================== -->
+
+  <!-- Sábado 31 de Octubre -->
+  <programme start="20261031000000 -0500" stop="20261031060000 -0500" channel="12clarovideo.pe"><title lang="es">Willax</title></programme>
+  <programme start="20261031060000 -0500" stop="20261031120000 -0500" channel="12clarovideo.pe"><title lang="es">Willax</title></programme>
+  <programme start="20261031120000 -0500" stop="20261031180000 -0500" channel="12clarovideo.pe"><title lang="es">Willax</title></programme>
+  <programme start="20261031180000 -0500" stop="20261101000000 -0500" channel="12clarovideo.pe"><title lang="es">Willax</title></programme>
+
+  <!-- Domingo 1 de Noviembre -->
+  <programme start="20261101000000 -0500" stop="20261101060000 -0500" channel="12clarovideo.pe"><title lang="es">Willax</title></programme>
+  <programme start="20261101060000 -0500" stop="20261101120000 -0500" channel="12clarovideo.pe"><title lang="es">Willax</title></programme>
+  <programme start="20261101120000 -0500" stop="20261101180000 -0500" channel="12clarovideo.pe"><title lang="es">Willax</title></programme>
+  <programme start="20261101180000 -0500" stop="20261102000000 -0500" channel="12clarovideo.pe"><title lang="es">Willax</title></programme>
+
+  <!-- Lunes 2 de Noviembre (Lunes a Viernes) -->
+  <programme start="20261102000000 -0500" stop="20261102003000 -0500" channel="12clarovideo.pe"><title lang="es">Bio Nutrition</title></programme>
+  <programme start="20261102003000 -0500" stop="20261102053000 -0500" channel="12clarovideo.pe"><title lang="es">Nutrisa</title></programme>
+  <programme start="20261102053000 -0500" stop="20261102060000 -0500" channel="12clarovideo.pe"><title lang="es">Udm</title></programme>
+  <programme start="20261102060000 -0500" stop="20261102070000 -0500" channel="12clarovideo.pe"><title lang="es">Al Día Con Willax Nacional</title></programme>
+  <programme start="20261102070000 -0500" stop="20261102090000 -0500" channel="12clarovideo.pe"><title lang="es">Al Día Con Willax</title></programme>
+  <programme start="20261102090000 -0500" stop="20261102093000 -0500" channel="12clarovideo.pe"><title lang="es">Espectáculos</title></programme>
+  <programme start="20261102093000 -0500" stop="20261102113000 -0500" channel="12clarovideo.pe"><title lang="es">Que Mañana</title></programme>
+  <programme start="20261102113000 -0500" stop="20261102133000 -0500" channel="12clarovideo.pe"><title lang="es">Willax Noticias Medio Día</title></programme>
+  <programme start="20261102133000 -0500" stop="20261102143000 -0500" channel="12clarovideo.pe"><title lang="es">Esposa Joven</title></programme>
+  <programme start="20261102143000 -0500" stop="20261102170000 -0500" channel="12clarovideo.pe"><title lang="es">Amor Y Fuego</title></programme>
+  <programme start="20261102170000 -0500" stop="20261102180000 -0500" channel="12clarovideo.pe"><title lang="es">Udm</title></programme>
+  <programme start="20261102180000 -0500" stop="20261102190000 -0500" channel="12clarovideo.pe"><title lang="es">Caso Cerrado</title></programme>
+  <programme start="20261102190000 -0500" stop="20261102200000 -0500" channel="12clarovideo.pe"><title lang="es">Willax Noticias Ed Central</title></programme>
+  <programme start="20261102200000 -0500" stop="20261102210000 -0500" channel="12clarovideo.pe"><title lang="es">Contracorriente</title></programme>
+  <programme start="20261102210000 -0500" stop="20261102220000 -0500" channel="12clarovideo.pe"><title lang="es">Mbas</title></programme>
+  <programme start="20261102220000 -0500" stop="20261102230000 -0500" channel="12clarovideo.pe"><title lang="es">Ahora Y En La Hora</title></programme>
+  <programme start="20261102230000 -0500" stop="20261103000000 -0500" channel="12clarovideo.pe"><title lang="es">La Reina Del Sur</title></programme>
+
+  <!-- Martes 3 de Noviembre (Lunes a Viernes) -->
+  <programme start="20261103000000 -0500" stop="20261103003000 -0500" channel="12clarovideo.pe"><title lang="es">Bio Nutrition</title></programme>
+  <programme start="20261103003000 -0500" stop="20261103053000 -0500" channel="12clarovideo.pe"><title lang="es">Nutrisa</title></programme>
+  <programme start="20261103053000 -0500" stop="20261103060000 -0500" channel="12clarovideo.pe"><title lang="es">Udm</title></programme>
+  <programme start="20261103060000 -0500" stop="20261103070000 -0500" channel="12clarovideo.pe"><title lang="es">Al Día Con Willax Nacional</title></programme>
+  <programme start="20261103070000 -0500" stop="20261103090000 -0500" channel="12clarovideo.pe"><title lang="es">Al Día Con Willax</title></programme>
+  <programme start="20261103090000 -0500" stop="20261103093000 -0500" channel="12clarovideo.pe"><title lang="es">Espectáculos</title></programme>
+  <programme start="20261103093000 -0500" stop="20261103113000 -0500" channel="12clarovideo.pe"><title lang="es">Que Mañana</title></programme>
+  <programme start="20261103113000 -0500" stop="20261103133000 -0500" channel="12clarovideo.pe"><title lang="es">Willax Noticias Medio Día</title></programme>
+  <programme start="20261103133000 -0500" stop="20261103143000 -0500" channel="12clarovideo.pe"><title lang="es">Esposa Joven</title></programme>
+  <programme start="20261103143000 -0500" stop="20261103170000 -0500" channel="12clarovideo.pe"><title lang="es">Amor Y Fuego</title></programme>
+  <programme start="20261103170000 -0500" stop="20261103180000 -0500" channel="12clarovideo.pe"><title lang="es">Udm</title></programme>
+  <programme start="20261103180000 -0500" stop="20261103190000 -0500" channel="12clarovideo.pe"><title lang="es">Caso Cerrado</title></programme>
+  <programme start="20261103190000 -0500" stop="20261103200000 -0500" channel="12clarovideo.pe"><title lang="es">Willax Noticias Ed Central</title></programme>
+  <programme start="20261103200000 -0500" stop="20261103210000 -0500" channel="12clarovideo.pe"><title lang="es">Contracorriente</title></programme>
+  <programme start="20261103210000 -0500" stop="20261103220000 -0500" channel="12clarovideo.pe"><title lang="es">Mbas</title></programme>
+  <programme start="20261103220000 -0500" stop="20261103230000 -0500" channel="12clarovideo.pe"><title lang="es">Ahora Y En La Hora</title></programme>
+  <programme start="20261103230000 -0500" stop="20261104000000 -0500" channel="12clarovideo.pe"><title lang="es">La Reina Del Sur</title></programme>
+
+  <!-- Miércoles 4 de Noviembre (Lunes a Viernes) -->
+  <programme start="20261104000000 -0500" stop="20261104003000 -0500" channel="12clarovideo.pe"><title lang="es">Bio Nutrition</title></programme>
+  <programme start="20261104003000 -0500" stop="20261104053000 -0500" channel="12clarovideo.pe"><title lang="es">Nutrisa</title></programme>
+  <programme start="20261104053000 -0500" stop="20261104060000 -0500" channel="12clarovideo.pe"><title lang="es">Udm</title></programme>
+  <programme start="20261104060000 -0500" stop="20261104070000 -0500" channel="12clarovideo.pe"><title lang="es">Al Día Con Willax Nacional</title></programme>
+  <programme start="20261104070000 -0500" stop="20261104090000 -0500" channel="12clarovideo.pe"><title lang="es">Al Día Con Willax</title></programme>
+  <programme start="20261104090000 -0500" stop="20261104093000 -0500" channel="12clarovideo.pe"><title lang="es">Espectáculos</title></programme>
+  <programme start="20261104093000 -0500" stop="20261104113000 -0500" channel="12clarovideo.pe"><title lang="es">Que Mañana</title></programme>
+  <programme start="20261104113000 -0500" stop="20261104133000 -0500" channel="12clarovideo.pe"><title lang="es">Willax Noticias Medio Día</title></programme>
+  <programme start="20261104133000 -0500" stop="20261104143000 -0500" channel="12clarovideo.pe"><title lang="es">Esposa Joven</title></programme>
+  <programme start="20261104143000 -0500" stop="20261104170000 -0500" channel="12clarovideo.pe"><title lang="es">Amor Y Fuego</title></programme>
+  <programme start="20261104170000 -0500" stop="20261104180000 -0500" channel="12clarovideo.pe"><title lang="es">Udm</title></programme>
+  <programme start="20261104180000 -0500" stop="20261104190000 -0500" channel="12clarovideo.pe"><title lang="es">Caso Cerrado</title></programme>
+  <programme start="20261104190000 -0500" stop="20261104200000 -0500" channel="12clarovideo.pe"><title lang="es">Willax Noticias Ed Central</title></programme>
+  <programme start="20261104200000 -0500" stop="20261104210000 -0500" channel="12clarovideo.pe"><title lang="es">Contracorriente</title></programme>
+  <programme start="20261104210000 -0500" stop="20261104220000 -0500" channel="12clarovideo.pe"><title lang="es">Mbas</title></programme>
+  <programme start="20261104220000 -0500" stop="20261104230000 -0500" channel="12clarovideo.pe"><title lang="es">Ahora Y En La Hora</title></programme>
+  <programme start="20261104230000 -0500" stop="20261105000000 -0500" channel="12clarovideo.pe"><title lang="es">La Reina Del Sur</title></programme>
+
+  <!-- Jueves 5 de Noviembre (Lunes a Viernes) -->
+  <programme start="20261105000000 -0500" stop="20261105003000 -0500" channel="12clarovideo.pe"><title lang="es">Bio Nutrition</title></programme>
+  <programme start="20261105003000 -0500" stop="20261105053000 -0500" channel="12clarovideo.pe"><title lang="es">Nutrisa</title></programme>
+  <programme start="20261105053000 -0500" stop="20261105060000 -0500" channel="12clarovideo.pe"><title lang="es">Udm</title></programme>
+  <programme start="20261105060000 -0500" stop="20261105070000 -0500" channel="12clarovideo.pe"><title lang="es">Al Día Con Willax Nacional</title></programme>
+  <programme start="20261105070000 -0500" stop="20261105090000 -0500" channel="12clarovideo.pe"><title lang="es">Al Día Con Willax</title></programme>
+  <programme start="20261105090000 -0500" stop="20261105093000 -0500" channel="12clarovideo.pe"><title lang="es">Espectáculos</title></programme>
+  <programme start="20261105093000 -0500" stop="20261105113000 -0500" channel="12clarovideo.pe"><title lang="es">Que Mañana</title></programme>
+  <programme start="20261105113000 -0500" stop="20261105133000 -0500" channel="12clarovideo.pe"><title lang="es">Willax Noticias Medio Día</title></programme>
+  <programme start="20261105133000 -0500" stop="20261105143000 -0500" channel="12clarovideo.pe"><title lang="es">Esposa Joven</title></programme>
+  <programme start="20261105143000 -0500" stop="20261105170000 -0500" channel="12clarovideo.pe"><title lang="es">Amor Y Fuego</title></programme>
+  <programme start="20261105170000 -0500" stop="20261105180000 -0500" channel="12clarovideo.pe"><title lang="es">Udm</title></programme>
+  <programme start="20261105180000 -0500" stop="20261105190000 -0500" channel="12clarovideo.pe"><title lang="es">Caso Cerrado</title></programme>
+  <programme start="20261105190000 -0500" stop="20261105200000 -0500" channel="12clarovideo.pe"><title lang="es">Willax Noticias Ed Central</title></programme>
+  <programme start="20261105200000 -0500" stop="20261105210000 -0500" channel="12clarovideo.pe"><title lang="es">Contracorriente</title></programme>
+  <programme start="20261105210000 -0500" stop="20261105220000 -0500" channel="12clarovideo.pe"><title lang="es">Mbas</title></programme>
+  <programme start="20261105220000 -0500" stop="20261105230000 -0500" channel="12clarovideo.pe"><title lang="es">Ahora Y En La Hora</title></programme>
+  <programme start="20261105230000 -0500" stop="20261106000000 -0500" channel="12clarovideo.pe"><title lang="es">La Reina Del Sur</title></programme>
+
+  <!-- Viernes 6 de Noviembre (Lunes a Viernes) -->
+  <programme start="20261106000000 -0500" stop="20261106003000 -0500" channel="12clarovideo.pe"><title lang="es">Bio Nutrition</title></programme>
+  <programme start="20261106003000 -0500" stop="20261106053000 -0500" channel="12clarovideo.pe"><title lang="es">Nutrisa</title></programme>
+  <programme start="20261106053000 -0500" stop="20261106060000 -0500" channel="12clarovideo.pe"><title lang="es">Udm</title></programme>
+  <programme start="20261106060000 -0500" stop="20261106070000 -0500" channel="12clarovideo.pe"><title lang="es">Al Día Con Willax Nacional</title></programme>
+  <programme start="20261106070000 -0500" stop="20261106090000 -0500" channel="12clarovideo.pe"><title lang="es">Al Día Con Willax</title></programme>
+  <programme start="20261106090000 -0500" stop="20261106093000 -0500" channel="12clarovideo.pe"><title lang="es">Espectáculos</title></programme>
+  <programme start="20261106093000 -0500" stop="20261106113000 -0500" channel="12clarovideo.pe"><title lang="es">Que Mañana</title></programme>
+  <programme start="20261106113000 -0500" stop="20261106133000 -0500" channel="12clarovideo.pe"><title lang="es">Willax Noticias Medio Día</title></programme>
+  <programme start="20261106133000 -0500" stop="20261106143000 -0500" channel="12clarovideo.pe"><title lang="es">Esposa Joven</title></programme>
+  <programme start="20261106143000 -0500" stop="20261106170000 -0500" channel="12clarovideo.pe"><title lang="es">Amor Y Fuego</title></programme>
+  <programme start="20261106170000 -0500" stop="20261106180000 -0500" channel="12clarovideo.pe"><title lang="es">Udm</title></programme>
+  <programme start="20261106180000 -0500" stop="20261106190000 -0500" channel="12clarovideo.pe"><title lang="es">Caso Cerrado</title></programme>
+  <programme start="20261106190000 -0500" stop="20261106200000 -0500" channel="12clarovideo.pe"><title lang="es">Willax Noticias Ed Central</title></programme>
+  <programme start="20261106200000 -0500" stop="20261106210000 -0500" channel="12clarovideo.pe"><title lang="es">Contracorriente</title></programme>
+  <programme start="20261106210000 -0500" stop="20261106220000 -0500" channel="12clarovideo.pe"><title lang="es">Mbas</title></programme>
+  <programme start="20261106220000 -0500" stop="20261106230000 -0500" channel="12clarovideo.pe"><title lang="es">Ahora Y En La Hora</title></programme>
+  <programme start="20261106230000 -0500" stop="20261107000000 -0500" channel="12clarovideo.pe"><title lang="es">La Reina Del Sur</title></programme>
+
+  <!-- Sábado 7 de Noviembre -->
+  <programme start="20261107000000 -0500" stop="20261107060000 -0500" channel="12clarovideo.pe"><title lang="es">Willax</title></programme>
+  <programme start="20261107060000 -0500" stop="20261107120000 -0500" channel="12clarovideo.pe"><title lang="es">Willax</title></programme>
+  <programme start="20261107120000 -0500" stop="20261107180000 -0500" channel="12clarovideo.pe"><title lang="es">Willax</title></programme>
+  <programme start="20261107180000 -0500" stop="20261108000000 -0500" channel="12clarovideo.pe"><title lang="es">Willax</title></programme>
+
+  <!-- Domingo 8 de Noviembre -->
+  <programme start="20261108000000 -0500" stop="20261108060000 -0500" channel="12clarovideo.pe"><title lang="es">Willax</title></programme>
+  <programme start="20261108060000 -0500" stop="20261108120000 -0500" channel="12clarovideo.pe"><title lang="es">Willax</title></programme>
+  <programme start="20261108120000 -0500" stop="20261108180000 -0500" channel="12clarovideo.pe"><title lang="es">Willax</title></programme>
+  <programme start="20261108180000 -0500" stop="20261109000000 -0500" channel="12clarovideo.pe"><title lang="es">Willax</title></programme>
+
+
+  <!-- ==================== 4. TV PERÚ 7.3 (14clarovideo.pe) ==================== -->
+
+  <!-- Sábado 31 de Octubre -->
+  <programme start="20261031000000 -0500" stop="20261031060000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú 7.3</title></programme>
+  <programme start="20261031060000 -0500" stop="20261031120000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú 7.3</title></programme>
+  <programme start="20261031120000 -0500" stop="20261031180000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú 7.3</title></programme>
+  <programme start="20261031180000 -0500" stop="20261101000000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú 7.3</title></programme>
+
+  <!-- Domingo 1 de Noviembre -->
+  <programme start="20261101000000 -0500" stop="20261101060000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú 7.3</title></programme>
+  <programme start="20261101060000 -0500" stop="20261101120000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú 7.3</title></programme>
+  <programme start="20261101120000 -0500" stop="20261101180000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú 7.3</title></programme>
+  <programme start="20261101180000 -0500" stop="20261102000000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú 7.3</title></programme>
+
+  <!-- Lunes 2 de Noviembre -->
+  <programme start="20261102000000 -0500" stop="20261102010000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Sur</title></programme>
+  <programme start="20261102010000 -0500" stop="20261102020000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Oriente</title></programme>
+  <programme start="20261102020000 -0500" stop="20261102030000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Centro</title></programme>
+  <programme start="20261102030000 -0500" stop="20261102040000 -0500" channel="14clarovideo.pe"><title lang="es">Sucedió En El Perú</title></programme>
+  <programme start="20261102040000 -0500" stop="20261102050000 -0500" channel="14clarovideo.pe"><title lang="es">En Pared</title></programme>
+  <programme start="20261102050000 -0500" stop="20261102053000 -0500" channel="14clarovideo.pe"><title lang="es">Jiwasanaka</title></programme>
+  <programme start="20261102053000 -0500" stop="20261102060000 -0500" channel="14clarovideo.pe"><title lang="es">Ñuqanchik</title></programme>
+  <programme start="20261102060000 -0500" stop="20261102083000 -0500" channel="14clarovideo.pe"><title lang="es">Primera Hora</title></programme>
+  <programme start="20261102083000 -0500" stop="20261102090000 -0500" channel="14clarovideo.pe"><title lang="es">Deportes Express</title></programme>
+  <programme start="20261102090000 -0500" stop="20261102120000 -0500" channel="14clarovideo.pe"><title lang="es">Noticias Mañana</title></programme>
+  <programme start="20261102120000 -0500" stop="20261102130000 -0500" channel="14clarovideo.pe"><title lang="es">Regiones Ahora</title></programme>
+  <programme start="20261102130000 -0500" stop="20261102140000 -0500" channel="14clarovideo.pe"><title lang="es">Noticias Ahora</title></programme>
+  <programme start="20261102140000 -0500" stop="20261102143000 -0500" channel="14clarovideo.pe"><title lang="es">Jiwasanaka</title></programme>
+  <programme start="20261102143000 -0500" stop="20261102150000 -0500" channel="14clarovideo.pe"><title lang="es">Ñuqanchik</title></programme>
+  <programme start="20261102150000 -0500" stop="20261102160000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Noticias</title></programme>
+  <programme start="20261102160000 -0500" stop="20261102170000 -0500" channel="14clarovideo.pe"><title lang="es">Aliados Por La Seguridad</title></programme>
+  <programme start="20261102170000 -0500" stop="20261102190000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Noticias Tarde</title></programme>
+  <programme start="20261102190000 -0500" stop="20261102200000 -0500" channel="14clarovideo.pe"><title lang="es">Geomundo</title></programme>
+  <programme start="20261102200000 -0500" stop="20261102210000 -0500" channel="14clarovideo.pe"><title lang="es">Hora Central</title></programme>
+  <programme start="20261102210000 -0500" stop="20261102220000 -0500" channel="14clarovideo.pe"><title lang="es">En Pared</title></programme>
+  <programme start="20261102220000 -0500" stop="20261102230000 -0500" channel="14clarovideo.pe"><title lang="es">Tu Desición 2026</title></programme>
+  <programme start="20261102230000 -0500" stop="20261103000000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Norte</title></programme>
+
+  <!-- Martes 3 de Noviembre (Martes a Viernes) -->
+  <programme start="20261103000000 -0500" stop="20261103010000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Sur</title></programme>
+  <programme start="20261103010000 -0500" stop="20261103020000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Oriente</title></programme>
+  <programme start="20261103020000 -0500" stop="20261103030000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Centro</title></programme>
+  <programme start="20261103030000 -0500" stop="20261103040000 -0500" channel="14clarovideo.pe"><title lang="es">Mercado Peruano</title></programme>
+  <programme start="20261103040000 -0500" stop="20261103050000 -0500" channel="14clarovideo.pe"><title lang="es">En Pared</title></programme>
+  <programme start="20261103050000 -0500" stop="20261103053000 -0500" channel="14clarovideo.pe"><title lang="es">Jiwasanaka</title></programme>
+  <programme start="20261103053000 -0500" stop="20261103060000 -0500" channel="14clarovideo.pe"><title lang="es">Ñuqanchik</title></programme>
+  <programme start="20261103060000 -0500" stop="20261103083000 -0500" channel="14clarovideo.pe"><title lang="es">Primera Hora</title></programme>
+  <programme start="20261103083000 -0500" stop="20261103090000 -0500" channel="14clarovideo.pe"><title lang="es">Deportes Express</title></programme>
+  <programme start="20261103090000 -0500" stop="20261103120000 -0500" channel="14clarovideo.pe"><title lang="es">Noticias Mañana</title></programme>
+  <programme start="20261103120000 -0500" stop="20261103130000 -0500" channel="14clarovideo.pe"><title lang="es">Regiones Ahora</title></programme>
+  <programme start="20261103130000 -0500" stop="20261103140000 -0500" channel="14clarovideo.pe"><title lang="es">Noticias Ahora</title></programme>
+  <programme start="20261103140000 -0500" stop="20261103143000 -0500" channel="14clarovideo.pe"><title lang="es">Jiwasanaka</title></programme>
+  <programme start="20261103143000 -0500" stop="20261103150000 -0500" channel="14clarovideo.pe"><title lang="es">Ñuqanchik</title></programme>
+  <programme start="20261103150000 -0500" stop="20261103160000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Noticias</title></programme>
+  <programme start="20261103160000 -0500" stop="20261103170000 -0500" channel="14clarovideo.pe"><title lang="es">Aliados Por La Seguridad</title></programme>
+  <programme start="20261103170000 -0500" stop="20261103190000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Noticias Tarde</title></programme>
+  <programme start="20261103190000 -0500" stop="20261103200000 -0500" channel="14clarovideo.pe"><title lang="es">Geomundo</title></programme>
+  <programme start="20261103200000 -0500" stop="20261103210000 -0500" channel="14clarovideo.pe"><title lang="es">Hora Central</title></programme>
+  <programme start="20261103210000 -0500" stop="20261103220000 -0500" channel="14clarovideo.pe"><title lang="es">En Pared</title></programme>
+  <programme start="20261103220000 -0500" stop="20261103230000 -0500" channel="14clarovideo.pe"><title lang="es">Tu Desición 2026</title></programme>
+  <programme start="20261103230000 -0500" stop="20261104000000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Norte</title></programme>
+
+  <!-- Miércoles 4 de Noviembre (Martes a Viernes) -->
+  <programme start="20261104000000 -0500" stop="20261104010000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Sur</title></programme>
+  <programme start="20261104010000 -0500" stop="20261104020000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Oriente</title></programme>
+  <programme start="20261104020000 -0500" stop="20261104030000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Centro</title></programme>
+  <programme start="20261104030000 -0500" stop="20261104040000 -0500" channel="14clarovideo.pe"><title lang="es">Mercado Peruano</title></programme>
+  <programme start="20261104040000 -0500" stop="20261104050000 -0500" channel="14clarovideo.pe"><title lang="es">En Pared</title></programme>
+  <programme start="20261104050000 -0500" stop="20261104053000 -0500" channel="14clarovideo.pe"><title lang="es">Jiwasanaka</title></programme>
+  <programme start="20261104053000 -0500" stop="20261104060000 -0500" channel="14clarovideo.pe"><title lang="es">Ñuqanchik</title></programme>
+  <programme start="20261104060000 -0500" stop="20261104083000 -0500" channel="14clarovideo.pe"><title lang="es">Primera Hora</title></programme>
+  <programme start="20261104083000 -0500" stop="20261104090000 -0500" channel="14clarovideo.pe"><title lang="es">Deportes Express</title></programme>
+  <programme start="20261104090000 -0500" stop="20261104120000 -0500" channel="14clarovideo.pe"><title lang="es">Noticias Mañana</title></programme>
+  <programme start="20261104120000 -0500" stop="20261104130000 -0500" channel="14clarovideo.pe"><title lang="es">Regiones Ahora</title></programme>
+  <programme start="20261104130000 -0500" stop="20261104140000 -0500" channel="14clarovideo.pe"><title lang="es">Noticias Ahora</title></programme>
+  <programme start="20261104140000 -0500" stop="20261104143000 -0500" channel="14clarovideo.pe"><title lang="es">Jiwasanaka</title></programme>
+  <programme start="20261104143000 -0500" stop="20261104150000 -0500" channel="14clarovideo.pe"><title lang="es">Ñuqanchik</title></programme>
+  <programme start="20261104150000 -0500" stop="20261104160000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Noticias</title></programme>
+  <programme start="20261104160000 -0500" stop="20261104170000 -0500" channel="14clarovideo.pe"><title lang="es">Aliados Por La Seguridad</title></programme>
+  <programme start="20261104170000 -0500" stop="20261104190000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Noticias Tarde</title></programme>
+  <programme start="20261104190000 -0500" stop="20261104200000 -0500" channel="14clarovideo.pe"><title lang="es">Geomundo</title></programme>
+  <programme start="20261104200000 -0500" stop="20261104210000 -0500" channel="14clarovideo.pe"><title lang="es">Hora Central</title></programme>
+  <programme start="20261104210000 -0500" stop="20261104220000 -0500" channel="14clarovideo.pe"><title lang="es">En Pared</title></programme>
+  <programme start="20261104220000 -0500" stop="20261104230000 -0500" channel="14clarovideo.pe"><title lang="es">Tu Desición 2026</title></programme>
+  <programme start="20261104230000 -0500" stop="20261105000000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Norte</title></programme>
+
+  <!-- Jueves 5 de Noviembre (Martes a Viernes) -->
+  <programme start="20261105000000 -0500" stop="20261105010000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Sur</title></programme>
+  <programme start="20261105010000 -0500" stop="20261105020000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Oriente</title></programme>
+  <programme start="20261105020000 -0500" stop="20261105030000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Centro</title></programme>
+  <programme start="20261105030000 -0500" stop="20261105040000 -0500" channel="14clarovideo.pe"><title lang="es">Mercado Peruano</title></programme>
+  <programme start="20261105040000 -0500" stop="20261105050000 -0500" channel="14clarovideo.pe"><title lang="es">En Pared</title></programme>
+  <programme start="20261105050000 -0500" stop="20261105053000 -0500" channel="14clarovideo.pe"><title lang="es">Jiwasanaka</title></programme>
+  <programme start="20261105053000 -0500" stop="20261105060000 -0500" channel="14clarovideo.pe"><title lang="es">Ñuqanchik</title></programme>
+  <programme start="20261105060000 -0500" stop="20261105083000 -0500" channel="14clarovideo.pe"><title lang="es">Primera Hora</title></programme>
+  <programme start="20261105083000 -0500" stop="20261105090000 -0500" channel="14clarovideo.pe"><title lang="es">Deportes Express</title></programme>
+  <programme start="20261105090000 -0500" stop="20261105120000 -0500" channel="14clarovideo.pe"><title lang="es">Noticias Mañana</title></programme>
+  <programme start="20261105120000 -0500" stop="20261105130000 -0500" channel="14clarovideo.pe"><title lang="es">Regiones Ahora</title></programme>
+  <programme start="20261105130000 -0500" stop="20261105140000 -0500" channel="14clarovideo.pe"><title lang="es">Noticias Ahora</title></programme>
+  <programme start="20261105140000 -0500" stop="20261105143000 -0500" channel="14clarovideo.pe"><title lang="es">Jiwasanaka</title></programme>
+  <programme start="20261105143000 -0500" stop="20261105150000 -0500" channel="14clarovideo.pe"><title lang="es">Ñuqanchik</title></programme>
+  <programme start="20261105150000 -0500" stop="20261105160000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Noticias</title></programme>
+  <programme start="20261105160000 -0500" stop="20261105170000 -0500" channel="14clarovideo.pe"><title lang="es">Aliados Por La Seguridad</title></programme>
+  <programme start="20261105170000 -0500" stop="20261105190000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Noticias Tarde</title></programme>
+  <programme start="20261105190000 -0500" stop="20261105200000 -0500" channel="14clarovideo.pe"><title lang="es">Geomundo</title></programme>
+  <programme start="20261105200000 -0500" stop="20261105210000 -0500" channel="14clarovideo.pe"><title lang="es">Hora Central</title></programme>
+  <programme start="20261105210000 -0500" stop="20261105220000 -0500" channel="14clarovideo.pe"><title lang="es">En Pared</title></programme>
+  <programme start="20261105220000 -0500" stop="20261105230000 -0500" channel="14clarovideo.pe"><title lang="es">Tu Desición 2026</title></programme>
+  <programme start="20261105230000 -0500" stop="20261106000000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Norte</title></programme>
+
+  <!-- Viernes 6 de Noviembre (Martes a Viernes) -->
+  <programme start="20261106000000 -0500" stop="20261106010000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Sur</title></programme>
+  <programme start="20261106010000 -0500" stop="20261106020000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Oriente</title></programme>
+  <programme start="20261106020000 -0500" stop="20261106030000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Centro</title></programme>
+  <programme start="20261106030000 -0500" stop="20261106040000 -0500" channel="14clarovideo.pe"><title lang="es">Mercado Peruano</title></programme>
+  <programme start="20261106040000 -0500" stop="20261106050000 -0500" channel="14clarovideo.pe"><title lang="es">En Pared</title></programme>
+  <programme start="20261106050000 -0500" stop="20261106053000 -0500" channel="14clarovideo.pe"><title lang="es">Jiwasanaka</title></programme>
+  <programme start="20261106053000 -0500" stop="20261106060000 -0500" channel="14clarovideo.pe"><title lang="es">Ñuqanchik</title></programme>
+  <programme start="20261106060000 -0500" stop="20261106083000 -0500" channel="14clarovideo.pe"><title lang="es">Primera Hora</title></programme>
+  <programme start="20261106083000 -0500" stop="20261106090000 -0500" channel="14clarovideo.pe"><title lang="es">Deportes Express</title></programme>
+  <programme start="20261106090000 -0500" stop="20261106120000 -0500" channel="14clarovideo.pe"><title lang="es">Noticias Mañana</title></programme>
+  <programme start="20261106120000 -0500" stop="20261106130000 -0500" channel="14clarovideo.pe"><title lang="es">Regiones Ahora</title></programme>
+  <programme start="20261106130000 -0500" stop="20261106140000 -0500" channel="14clarovideo.pe"><title lang="es">Noticias Ahora</title></programme>
+  <programme start="20261106140000 -0500" stop="20261106143000 -0500" channel="14clarovideo.pe"><title lang="es">Jiwasanaka</title></programme>
+  <programme start="20261106143000 -0500" stop="20261106150000 -0500" channel="14clarovideo.pe"><title lang="es">Ñuqanchik</title></programme>
+  <programme start="20261106150000 -0500" stop="20261106160000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Noticias</title></programme>
+  <programme start="20261106160000 -0500" stop="20261106170000 -0500" channel="14clarovideo.pe"><title lang="es">Aliados Por La Seguridad</title></programme>
+  <programme start="20261106170000 -0500" stop="20261106190000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Noticias Tarde</title></programme>
+  <programme start="20261106190000 -0500" stop="20261106200000 -0500" channel="14clarovideo.pe"><title lang="es">Geomundo</title></programme>
+  <programme start="20261106200000 -0500" stop="20261106210000 -0500" channel="14clarovideo.pe"><title lang="es">Hora Central</title></programme>
+  <programme start="20261106210000 -0500" stop="20261106220000 -0500" channel="14clarovideo.pe"><title lang="es">En Pared</title></programme>
+  <programme start="20261106220000 -0500" stop="20261106230000 -0500" channel="14clarovideo.pe"><title lang="es">Tu Desición 2026</title></programme>
+  <programme start="20261106230000 -0500" stop="20261107000000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú Norte</title></programme>
+
+  <!-- Sábado 7 de Noviembre -->
+  <programme start="20261107000000 -0500" stop="20261107060000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú 7.3</title></programme>
+  <programme start="20261107060000 -0500" stop="20261107120000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú 7.3</title></programme>
+  <programme start="20261107120000 -0500" stop="20261107180000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú 7.3</title></programme>
+  <programme start="20261107180000 -0500" stop="20261108000000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú 7.3</title></programme>
+
+  <!-- Domingo 8 de Noviembre -->
+  <programme start="20261108000000 -0500" stop="20261108060000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú 7.3</title></programme>
+  <programme start="20261108060000 -0500" stop="20261108120000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú 7.3</title></programme>
+  <programme start="20261108120000 -0500" stop="20261108180000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú 7.3</title></programme>
+  <programme start="20261108180000 -0500" stop="20261109000000 -0500" channel="14clarovideo.pe"><title lang="es">TVPerú 7.3</title></programme>
+
+</tv>
