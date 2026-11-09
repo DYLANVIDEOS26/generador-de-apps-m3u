@@ -1,0 +1,17 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/DYLANVIDEOS26/generador-de-apps-m3u/refs/heads/main/movistar_tv(peru).xml"
+
+#EXTINF:-1 tvg-id="2mvstr.pe" tvg-logo="https://i.imgur.com/zAeqV4q.png" group-title="Canales Nacionales", LATINA HD (2)
+http://190.93.224.42/LATINA/index.m3u8
+
+#EXTINF:-1 tvg-id="4mvstr.pe" tvg-logo="https://i.imgur.com/z0xLCEH.png" group-title="Canales Nacionales", AMERICA TELEVISION HD (4)
+http://190.93.224.42/AMERICA-TV/index.m3u8
+
+#EXTINF:-1 tvg-id="5mvstr.pe" tvg-logo="https://i.imgur.com/vflm89n.png" group-title="Canales Nacionales", PANAMERICANA TELEVISION HD (5)
+http://190.93.224.42/PANAMERICANA/index.m3u8
+
+#EXTINF:-1 tvg-id="9mvstr.pe" tvg-logo="https://i.imgur.com/cew6qI8.png" group-title="Canales Nacionales", ATV HD (9)
+http://190.93.224.42/ATV/index.m3u8
+
+#EXTINF:-1 tvg-id="12mvstr.pe" tvg-logo="https://i.imgur.com/JEFR9C0.png" group-title="Canales Nacionales", WILLAX (12)
+http://190.93.224.42/WILLAX/index.m3u8
+
