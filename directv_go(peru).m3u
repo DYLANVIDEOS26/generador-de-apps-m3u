@@ -1,0 +1,95 @@
+#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml.gz" x-tvg-url="https://epg.programadorx.cl/mdiaz/gratis.xml.gz"
+
+#EXTINF:-1 tvg-id="4mvstr.pe" tvg-logo="https://i.imgur.com/0qEWYWQ.png" group-title="Locales & Noticias", America TV Perú
+http://38.190.100.202:8000/play/a057/index.m3u8
+
+#EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://i.imgur.com/Zky0thR.png" group-title="Locales & Noticias", ATV+
+http://38.190.100.202:8000/play/a05f/index.m3u8
+
+#EXTINF:-1 tvg-id="9mvstr.pe" tvg-logo="https://i.imgur.com/4RNVWqP.png" group-title="Locales & Noticias", ATV9
+http://38.190.100.202:8000/play/a05k/index.m3u8
+
+#EXTINF:-1 tvg-id="Defiance Channel" tvg-logo="https://i.imgur.com/ehlMn3p.png" group-title="Locales & Noticias", Defiance Channel
+https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="8563mvstr.pe" tvg-logo="https://i.imgur.com/4hZDNzH.png" group-title="Locales & Noticias", Exitosa TV
+http://38.190.100.202:8000/play/a05b/index.m3u8
+
+#EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://i.imgur.com/MJmGtGN.png" group-title="Locales & Noticias", Global
+http://38.190.100.202:8000/play/a0bg/index.m3u8
+
+#EXTINF:-1 tvg-id="2mvstr.pe" tvg-logo="https://i.imgur.com/PBLumj8.png" group-title="Locales & Noticias", Latina
+http://38.190.100.202:8000/play/a03x/index.m3u8
+
+#EXTINF:-1 tvg-id="623" tvg-logo="https://i.imgur.com/8HLH5d6.png" group-title="Locales & Noticias", Mega Noticias
+http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
+
+#EXTINF:-1 tvg-id="621" tvg-logo="https://i.imgur.com/ajfegOk.png" group-title="Locales & Noticias", Mega Tiempo
+http://15.204.196.147:22880/MEGATIEMPO-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
+
+#EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://i.imgur.com/BmeHpWf.png" group-title="Locales & Noticias", Panamericana TV
+http://38.190.100.202:8000/play/a0ap/index.m3u8
+
+#EXTINF:-1 tvg-id="656" tvg-logo="https://i.imgur.com/L7LTo5w.png" group-title="Locales & Noticias", PBO
+http://190.93.224.42/PBO/index.m3u8
+
+#EXTINF:-1 tvg-id="RCN Noticias" tvg-logo="https://i.imgur.com/EhvLhop.png" group-title="Locales & Noticias", RCN Noticias
+https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
+
+#EXTINF:-1 tvg-id="475" tvg-logo="https://i.imgur.com/SDhlh83.png" group-title="Locales & Noticias", RPP
+http://38.190.100.202:8000/play/a05l/index.m3u8
+
+#EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://i.imgur.com/dSRl0yF.png" group-title="Locales & Noticias", TV Peru
+http://38.190.100.202:8000/play/a058/index.m3u8
+
+#EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://i.imgur.com/xbgEdK7.png" group-title="Locales & Noticias", Willax
+http://38.190.100.202:8000/play/a059/index.m3u8
+
+#EXTINF:-1 tvg-id="610dtv.co" tvg-logo="https://i.imgur.com/IV3Coxv.png" group-title="Deportes", DSPORTS PER
+http://38.190.100.202:8000/play/a05n/index.m3u8
+
+#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.imgur.com/skQYFKo.png" group-title="Deportes", DSPORTS 2
+http://38.190.100.202:8000/play/a05m/index.m3u8
+
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.imgur.com/z5CmWnZ.png" group-title="Deportes", DSPORTS +
+http://38.190.100.202:8000/play/a09q/index.m3u8
+
+#EXTINF:-1 tvg-id="603dtv.pe" tvg-logo="https://i.imgur.com/wY3m1sc.png" group-title="Deportes", L1
+http://38.190.100.202:8000/play/a03c/index.m3u8
+
+#EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://i.imgur.com/GQcAaqG.png" group-title="Deportes", L1MAX
+http://38.190.100.202:8000/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-id="TyC Sports Fan" tvg-logo="https://i.imgur.com/PLGgAS0.png" group-title="Deportes", TyC Sports Fan
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ovación" tvg-logo="https://i.imgur.com/aTvGR88.png" group-title="Deportes", Ovación
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Free TV Acción" tvg-logo="https://i.imgur.com/6eBLqr8.png" group-title="Películas", Free TV Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16881&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+
+#EXTINF:-1 tvg-id="Free TV Drama" tvg-logo="https://i.imgur.com/Uvo7WXc.png" group-title="Películas", Free TV Drama
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16562&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+
+#EXTINF:-1 tvg-id="Free TV Estelar" tvg-logo="https://i.imgur.com/dyCGJYd.png" group-title="Películas", Free TV Estelar
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16563&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+
+#EXTINF:-1 tvg-id="Free TV Live" tvg-logo="https://i.imgur.com/e3rROYM.png" group-title="Películas", Free TV Live
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16511&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+
+#EXTINF:-1 tvg-id="Free TV Terror" tvg-logo="https://i.imgur.com/0LFySjT.png" group-title="Películas", Free TV Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16514&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+
+#EXTINF:-1 tvg-id="Caracol MIX" tvg-logo="https://i.imgur.com/r1Xuum8.png" group-title="Series & Shows", Caracol MIX
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=17230&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_mx&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+
+#EXTINF:-1 tvg-id="RCN Mas" tvg-logo="https://i.imgur.com/2jHEfX7.png" group-title="Series & Shows", RCN Mas
+https://jmp2.uk/plu-69de4ad924a6d521f8b0a348.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade" tvg-logo="https://i.imgur.com/SPtTHar.png" group-title="Series & Shows", Tastemade
+https://amg27441-amg27441c6-rlaxx-us-10926.playouts.now.amagi.tv/playlist/amg27441-tastemadelatam-tastemadeenespanol-rlaxxus/playlist.m3u8?tag_id=142775&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0506&content_producer_name=Amagi_Tastemade_TastemadeenEspanol&content_categories=IAB1%2CIAB1-7%2CIAB8%2CIAB18&content_custom_1_param=Amagi&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&sid=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
+
+#EXTINF:-1 tvg-id="Tastemade Viajes" tvg-logo="https://i.imgur.com/0BYuJ1u.png" group-title="Series & Shows", Tastemade Viajes
+https://amg27441-amg27441c2-rlaxx-us-10924.playouts.now.amagi.tv/playlist/amg27441-tastemadelatam-tastemadeviajes-rlaxxus/playlist.m3u8?tag_id=142778&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0508&content_producer_name=Amagi_Tastemade_TastemadeViajes&content_categories=IAB19-29%2CIAB20%2CIAB20-1&content_custom_1_param=Amagi&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&sid=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
+
