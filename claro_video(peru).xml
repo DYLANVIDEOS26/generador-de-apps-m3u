@@ -16,122 +16,6 @@
     <display-name lang="es">TV PERÚ 7.3</display-name>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73_t-290x163.png"/>
   </channel>
-  <programme start="20261119003000 -0500" stop="20261119013000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Los Hilos Del Pasado</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119013000 -0500" stop="20261119021000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Destilando Amor</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119021000 -0500" stop="20261119023000 -0500" channel="4clarovideo.pe">
-    <title lang="es">América Espectáculos</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119023000 -0500" stop="20261119033000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Más Espectáculos</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119033000 -0500" stop="20261119050000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Mande Quien Mande</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119050000 -0500" stop="20261119051600 -0500" channel="4clarovideo.pe">
-    <title lang="es">AN: Primera Edición Local</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119051600 -0500" stop="20261119070000 -0500" channel="4clarovideo.pe">
-    <title lang="es">AN: Primera Edición Local</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119070000 -0500" stop="20261119085000 -0500" channel="4clarovideo.pe">
-    <title lang="es">AN: Primera Edición</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119085000 -0500" stop="20261119091000 -0500" channel="4clarovideo.pe">
-    <title lang="es">América Deportes</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119091000 -0500" stop="20261119093000 -0500" channel="4clarovideo.pe">
-    <title lang="es">América Espectáculos</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119093000 -0500" stop="20261119110000 -0500" channel="4clarovideo.pe">
-    <title lang="es">América Hoy</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119110000 -0500" stop="20261119120000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Más Espectáculos</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119120000 -0500" stop="20261119123500 -0500" channel="4clarovideo.pe">
-    <title lang="es">AN: Edición mediodía</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119123500 -0500" stop="20261119124500 -0500" channel="4clarovideo.pe">
-    <title lang="es">América Deportes</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119124500 -0500" stop="20261119130000 -0500" channel="4clarovideo.pe">
-    <title lang="es">América Espectáculos</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119130000 -0500" stop="20261119134000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Destilando Amor</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119134000 -0500" stop="20261119151000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Mande Quien Mande</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119151000 -0500" stop="20261119160000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Al Fondo Hay Sitio</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119160000 -0500" stop="20261119170000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Los Hilos Del Pasado</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119170000 -0500" stop="20261119180000 -0500" channel="4clarovideo.pe">
-    <title lang="es">El Chavo Del Ocho</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119180000 -0500" stop="20261119193000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Los Milagros De La Rosa - Perú</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119193000 -0500" stop="20261119210000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Esto Es Guerra</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119210000 -0500" stop="20261119220000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Al Fondo Hay Sitio</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119220000 -0500" stop="20261119230000 -0500" channel="4clarovideo.pe">
-    <title lang="es">La Vida Que Me Robaste</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119230000 -0500" stop="20261119231700 -0500" channel="4clarovideo.pe">
-    <title lang="es">AN: Edición Central</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119231700 -0500" stop="20261119232400 -0500" channel="4clarovideo.pe">
-    <title lang="es">América Deportes</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119232400 -0500" stop="20261119232700 -0500" channel="4clarovideo.pe">
-    <title lang="es">AN: Edición Central</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119232700 -0500" stop="20261119234500 -0500" channel="4clarovideo.pe">
-    <title lang="es">América espectáculos</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119234500 -0500" stop="20261120003000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Desvelados</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
-  </programme>
   <programme start="20261120003000 -0500" stop="20261120013000 -0500" channel="4clarovideo.pe">
     <title lang="es">Los Hilos Del Pasado</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
@@ -181,7 +65,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261120120000 -0500" stop="20261120123500 -0500" channel="4clarovideo.pe">
-    <title lang="es">AN: Edición mediodía</title>
+    <title lang="es">AN: Edición Mediodía</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261120123500 -0500" stop="20261120124500 -0500" channel="4clarovideo.pe">
@@ -213,7 +97,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261120180000 -0500" stop="20261120193000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Los Milagros De La Rosa - Perú</title>
+    <title lang="es">Los Milagros De La Rosa</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261120193000 -0500" stop="20261120210000 -0500" channel="4clarovideo.pe">
@@ -248,12 +132,36 @@
     <title lang="es">Desvelados</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261121000000 -0500" stop="20261122000000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Sin información</title>
+  <programme start="20261121000000 -0500" stop="20261121060000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América TV</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261122000000 -0500" stop="20261123003000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Sin información</title>
+  <programme start="20261121060000 -0500" stop="20261121120000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América TV</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261121120000 -0500" stop="20261121180000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América TV</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261121180000 -0500" stop="20261122000000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América TV</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261122000000 -0500" stop="20261122060000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América TV</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261122060000 -0500" stop="20261122120000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América TV</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261122120000 -0500" stop="20261122180000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América TV</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261122180000 -0500" stop="20261123003000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América TV</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261123003000 -0500" stop="20261123013000 -0500" channel="4clarovideo.pe">
@@ -305,7 +213,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261123120000 -0500" stop="20261123123500 -0500" channel="4clarovideo.pe">
-    <title lang="es">AN: Edición mediodía</title>
+    <title lang="es">AN: Edición Mediodía</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261123123500 -0500" stop="20261123124500 -0500" channel="4clarovideo.pe">
@@ -337,7 +245,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261123180000 -0500" stop="20261123193000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Los Milagros De La Rosa - Perú</title>
+    <title lang="es">Los Milagros De La Rosa</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261123193000 -0500" stop="20261123210000 -0500" channel="4clarovideo.pe">
@@ -421,7 +329,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261124120000 -0500" stop="20261124123500 -0500" channel="4clarovideo.pe">
-    <title lang="es">AN: Edición mediodía</title>
+    <title lang="es">AN: Edición Mediodía</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261124123500 -0500" stop="20261124124500 -0500" channel="4clarovideo.pe">
@@ -452,7 +360,11 @@
     <title lang="es">El Chavo Del Ocho</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261124180000 -0500" stop="20261124193000 -0500" channel="4clarovideo.pe">
+  <programme start="20261124180000 -0500" stop="20261124185000 -0500" channel="4clarovideo.pe">
+    <title lang="es">Los Milagros De La Rosa</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261124185000 -0500" stop="20261124193000 -0500" channel="4clarovideo.pe">
     <title lang="es">Los Milagros De La Rosa - Perú</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
@@ -537,7 +449,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261125120000 -0500" stop="20261125123500 -0500" channel="4clarovideo.pe">
-    <title lang="es">AN: Edición mediodía</title>
+    <title lang="es">AN: Edición Mediodía</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261125123500 -0500" stop="20261125124500 -0500" channel="4clarovideo.pe">
@@ -569,7 +481,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261125180000 -0500" stop="20261125193000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Los Milagros De La Rosa - Perú</title>
+    <title lang="es">Los Milagros De La Rosa</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261125193000 -0500" stop="20261125210000 -0500" channel="4clarovideo.pe">
@@ -653,7 +565,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261126120000 -0500" stop="20261126123500 -0500" channel="4clarovideo.pe">
-    <title lang="es">AN: Edición mediodía</title>
+    <title lang="es">AN: Edición Mediodía</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261126123500 -0500" stop="20261126124500 -0500" channel="4clarovideo.pe">
@@ -684,7 +596,11 @@
     <title lang="es">El Chavo Del Ocho</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261126180000 -0500" stop="20261126193000 -0500" channel="4clarovideo.pe">
+  <programme start="20261126180000 -0500" stop="20261126185000 -0500" channel="4clarovideo.pe">
+    <title lang="es">Los Milagros De La Rosa</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261126185000 -0500" stop="20261126193000 -0500" channel="4clarovideo.pe">
     <title lang="es">Los Milagros De La Rosa - Perú</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
@@ -769,7 +685,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261127120000 -0500" stop="20261127123500 -0500" channel="4clarovideo.pe">
-    <title lang="es">AN: Edición mediodía</title>
+    <title lang="es">AN: Edición Mediodía</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261127123500 -0500" stop="20261127124500 -0500" channel="4clarovideo.pe">
@@ -801,7 +717,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261127180000 -0500" stop="20261127193000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Los Milagros De La Rosa - Perú</title>
+    <title lang="es">Los Milagros De La Rosa</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261127193000 -0500" stop="20261127210000 -0500" channel="4clarovideo.pe">
@@ -836,12 +752,36 @@
     <title lang="es">Desvelados</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261128000000 -0500" stop="20261129000000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Sin información</title>
+  <programme start="20261128000000 -0500" stop="20261128060000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América TV</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261129000000 -0500" stop="20261130003000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Sin información</title>
+  <programme start="20261128060000 -0500" stop="20261128120000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América TV</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128180000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América TV</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261128180000 -0500" stop="20261129000000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América TV</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261129000000 -0500" stop="20261129060000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América TV</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261129060000 -0500" stop="20261129120000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América TV</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261129120000 -0500" stop="20261129180000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América TV</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261129180000 -0500" stop="20261130003000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América TV</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261130003000 -0500" stop="20261130013000 -0500" channel="4clarovideo.pe">
@@ -893,7 +833,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261130120000 -0500" stop="20261130123500 -0500" channel="4clarovideo.pe">
-    <title lang="es">AN: Edición mediodía</title>
+    <title lang="es">AN: Edición Mediodía</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261130123500 -0500" stop="20261130124500 -0500" channel="4clarovideo.pe">
@@ -925,7 +865,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261130180000 -0500" stop="20261130193000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Los Milagros De La Rosa - Perú</title>
+    <title lang="es">Los Milagros De La Rosa</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261130193000 -0500" stop="20261130210000 -0500" channel="4clarovideo.pe">
@@ -1009,7 +949,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261201120000 -0500" stop="20261201123500 -0500" channel="4clarovideo.pe">
-    <title lang="es">AN: Edición mediodía</title>
+    <title lang="es">AN: Edición Mediodía</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261201123500 -0500" stop="20261201124500 -0500" channel="4clarovideo.pe">
@@ -1040,7 +980,11 @@
     <title lang="es">El Chavo Del Ocho</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261201180000 -0500" stop="20261201193000 -0500" channel="4clarovideo.pe">
+  <programme start="20261201180000 -0500" stop="20261201185000 -0500" channel="4clarovideo.pe">
+    <title lang="es">Los Milagros De La Rosa</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261201185000 -0500" stop="20261201193000 -0500" channel="4clarovideo.pe">
     <title lang="es">Los Milagros De La Rosa - Perú</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
@@ -1125,7 +1069,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261202120000 -0500" stop="20261202123500 -0500" channel="4clarovideo.pe">
-    <title lang="es">AN: Edición mediodía</title>
+    <title lang="es">AN: Edición Mediodía</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261202123500 -0500" stop="20261202124500 -0500" channel="4clarovideo.pe">
@@ -1157,7 +1101,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261202180000 -0500" stop="20261202193000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Los Milagros De La Rosa - Perú</title>
+    <title lang="es">Los Milagros De La Rosa</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261202193000 -0500" stop="20261202210000 -0500" channel="4clarovideo.pe">
@@ -1241,7 +1185,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261203120000 -0500" stop="20261203123500 -0500" channel="4clarovideo.pe">
-    <title lang="es">AN: Edición mediodía</title>
+    <title lang="es">AN: Edición Mediodía</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261203123500 -0500" stop="20261203124500 -0500" channel="4clarovideo.pe">
@@ -1272,7 +1216,11 @@
     <title lang="es">El Chavo Del Ocho</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261203180000 -0500" stop="20261203193000 -0500" channel="4clarovideo.pe">
+  <programme start="20261203180000 -0500" stop="20261203185000 -0500" channel="4clarovideo.pe">
+    <title lang="es">Los Milagros De La Rosa</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261203185000 -0500" stop="20261203193000 -0500" channel="4clarovideo.pe">
     <title lang="es">Los Milagros De La Rosa - Perú</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
@@ -1357,7 +1305,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261204120000 -0500" stop="20261204123500 -0500" channel="4clarovideo.pe">
-    <title lang="es">AN: Edición mediodía</title>
+    <title lang="es">AN: Edición Mediodía</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261204123500 -0500" stop="20261204124500 -0500" channel="4clarovideo.pe">
@@ -1389,7 +1337,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261204180000 -0500" stop="20261204193000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Los Milagros De La Rosa - Perú</title>
+    <title lang="es">Los Milagros De La Rosa</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261204193000 -0500" stop="20261204210000 -0500" channel="4clarovideo.pe">
@@ -1424,12 +1372,36 @@
     <title lang="es">Desvelados</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261205000000 -0500" stop="20261206000000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Sin información</title>
+  <programme start="20261205000000 -0500" stop="20261205060000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América TV</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261206000000 -0500" stop="20261207003000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Sin información</title>
+  <programme start="20261205060000 -0500" stop="20261205120000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América TV</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261205120000 -0500" stop="20261205180000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América TV</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261205180000 -0500" stop="20261206000000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América TV</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261206000000 -0500" stop="20261206060000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América TV</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261206060000 -0500" stop="20261206120000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América TV</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261206120000 -0500" stop="20261206180000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América TV</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261206180000 -0500" stop="20261207003000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América TV</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261207003000 -0500" stop="20261207013000 -0500" channel="4clarovideo.pe">
@@ -1481,7 +1453,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261207120000 -0500" stop="20261207123500 -0500" channel="4clarovideo.pe">
-    <title lang="es">AN: Edición mediodía</title>
+    <title lang="es">AN: Edición Mediodía</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261207123500 -0500" stop="20261207124500 -0500" channel="4clarovideo.pe">
@@ -1513,7 +1485,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261207180000 -0500" stop="20261207193000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Los Milagros De La Rosa - Perú</title>
+    <title lang="es">Los Milagros De La Rosa</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261207193000 -0500" stop="20261207210000 -0500" channel="4clarovideo.pe">
@@ -1597,7 +1569,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261208120000 -0500" stop="20261208123500 -0500" channel="4clarovideo.pe">
-    <title lang="es">AN: Edición mediodía</title>
+    <title lang="es">AN: Edición Mediodía</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261208123500 -0500" stop="20261208124500 -0500" channel="4clarovideo.pe">
@@ -1628,7 +1600,11 @@
     <title lang="es">El Chavo Del Ocho</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261208180000 -0500" stop="20261208193000 -0500" channel="4clarovideo.pe">
+  <programme start="20261208180000 -0500" stop="20261208185000 -0500" channel="4clarovideo.pe">
+    <title lang="es">Los Milagros De La Rosa</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261208185000 -0500" stop="20261208193000 -0500" channel="4clarovideo.pe">
     <title lang="es">Los Milagros De La Rosa - Perú</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
@@ -1713,7 +1689,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261209120000 -0500" stop="20261209123500 -0500" channel="4clarovideo.pe">
-    <title lang="es">AN: Edición mediodía</title>
+    <title lang="es">AN: Edición Mediodía</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261209123500 -0500" stop="20261209124500 -0500" channel="4clarovideo.pe">
@@ -1745,7 +1721,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261209180000 -0500" stop="20261209193000 -0500" channel="4clarovideo.pe">
-    <title lang="es">Los Milagros De La Rosa - Perú</title>
+    <title lang="es">Los Milagros De La Rosa</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261209193000 -0500" stop="20261209210000 -0500" channel="4clarovideo.pe">
@@ -1776,77 +1752,129 @@
     <title lang="es">América espectáculos</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261209234500 -0500" stop="20261210000000 -0500" channel="4clarovideo.pe">
+  <programme start="20261209234500 -0500" stop="20261210003000 -0500" channel="4clarovideo.pe">
     <title lang="es">Desvelados</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119050000 -0500" stop="20261119053000 -0500" channel="5clarovideo.pe">
-    <title lang="es">Telebrands</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210003000 -0500" stop="20261210013000 -0500" channel="4clarovideo.pe">
+    <title lang="es">Los Hilos Del Pasado</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119053000 -0500" stop="20261119060000 -0500" channel="5clarovideo.pe">
-    <title lang="es">Buenos Días Perú Nacional</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210013000 -0500" stop="20261210021000 -0500" channel="4clarovideo.pe">
+    <title lang="es">Destilando Amor</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119060000 -0500" stop="20261119073000 -0500" channel="5clarovideo.pe">
-    <title lang="es">Buenos Días Perú: Primera Edición</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210021000 -0500" stop="20261210023000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América Espectáculos</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119073000 -0500" stop="20261119093000 -0500" channel="5clarovideo.pe">
-    <title lang="es">Buenos Días Perú: Segunda Edición</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210023000 -0500" stop="20261210033000 -0500" channel="4clarovideo.pe">
+    <title lang="es">Más Espectáculos</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119093000 -0500" stop="20261119100000 -0500" channel="5clarovideo.pe">
-    <title lang="es">Quality Products</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210033000 -0500" stop="20261210050000 -0500" channel="4clarovideo.pe">
+    <title lang="es">Mande Quien Mande</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119100000 -0500" stop="20261119101500 -0500" channel="5clarovideo.pe">
-    <title lang="es">Fitosana</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210050000 -0500" stop="20261210051600 -0500" channel="4clarovideo.pe">
+    <title lang="es">AN: Primera Edición Local</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119101500 -0500" stop="20261119104500 -0500" channel="5clarovideo.pe">
-    <title lang="es">Telebrands</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210051600 -0500" stop="20261210070000 -0500" channel="4clarovideo.pe">
+    <title lang="es">AN: Primera Edición Local</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119104500 -0500" stop="20261119120000 -0500" channel="5clarovideo.pe">
-    <title lang="es">Detrás De Cámaras</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210070000 -0500" stop="20261210085000 -0500" channel="4clarovideo.pe">
+    <title lang="es">AN: Primera Edición</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119120000 -0500" stop="20261119130000 -0500" channel="5clarovideo.pe">
-    <title lang="es">24 Horas Primera Edición Mediodía</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210085000 -0500" stop="20261210091000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América Deportes</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119130000 -0500" stop="20261119150000 -0500" channel="5clarovideo.pe">
-    <title lang="es">24 Horas Edición Medio Día</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210091000 -0500" stop="20261210093000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América Espectáculos</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119150000 -0500" stop="20261119163000 -0500" channel="5clarovideo.pe">
-    <title lang="es">La Calle No Calla</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210093000 -0500" stop="20261210110000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América Hoy</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119163000 -0500" stop="20261119180000 -0500" channel="5clarovideo.pe">
-    <title lang="es">La Hija Del Mariachi</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210110000 -0500" stop="20261210120000 -0500" channel="4clarovideo.pe">
+    <title lang="es">Más Espectáculos</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119180000 -0500" stop="20261119193000 -0500" channel="5clarovideo.pe">
-    <title lang="es">La familia Ingalls</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210120000 -0500" stop="20261210123500 -0500" channel="4clarovideo.pe">
+    <title lang="es">AN: Edición Mediodía</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119193000 -0500" stop="20261119203000 -0500" channel="5clarovideo.pe">
-    <title lang="es">Novelas Bíblicas</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210123500 -0500" stop="20261210124500 -0500" channel="4clarovideo.pe">
+    <title lang="es">América Deportes</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119203000 -0500" stop="20261119220000 -0500" channel="5clarovideo.pe">
-    <title lang="es">24 Horas Edición Central</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210124500 -0500" stop="20261210130000 -0500" channel="4clarovideo.pe">
+    <title lang="es">América Espectáculos</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119220000 -0500" stop="20261119230000 -0500" channel="5clarovideo.pe">
-    <title lang="es">Esta Noche</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210130000 -0500" stop="20261210134000 -0500" channel="4clarovideo.pe">
+    <title lang="es">Destilando Amor</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119230000 -0500" stop="20261120050000 -0500" channel="5clarovideo.pe">
-    <title lang="es">Vale Todo</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210134000 -0500" stop="20261210151000 -0500" channel="4clarovideo.pe">
+    <title lang="es">Mande Quien Mande</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210151000 -0500" stop="20261210160000 -0500" channel="4clarovideo.pe">
+    <title lang="es">Al Fondo Hay Sitio</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210160000 -0500" stop="20261210170000 -0500" channel="4clarovideo.pe">
+    <title lang="es">Los Hilos Del Pasado</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210170000 -0500" stop="20261210180000 -0500" channel="4clarovideo.pe">
+    <title lang="es">El Chavo Del Ocho</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210180000 -0500" stop="20261210185000 -0500" channel="4clarovideo.pe">
+    <title lang="es">Los Milagros De La Rosa</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210185000 -0500" stop="20261210193000 -0500" channel="4clarovideo.pe">
+    <title lang="es">Los Milagros De La Rosa - Perú</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210193000 -0500" stop="20261210210000 -0500" channel="4clarovideo.pe">
+    <title lang="es">Esto Es Guerra</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210210000 -0500" stop="20261210220000 -0500" channel="4clarovideo.pe">
+    <title lang="es">Al Fondo Hay Sitio</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210220000 -0500" stop="20261210230000 -0500" channel="4clarovideo.pe">
+    <title lang="es">La Vida Que Me Robaste</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210230000 -0500" stop="20261210231700 -0500" channel="4clarovideo.pe">
+    <title lang="es">AN: Edición Central</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210231700 -0500" stop="20261210232400 -0500" channel="4clarovideo.pe">
+    <title lang="es">América Deportes</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210232400 -0500" stop="20261210232700 -0500" channel="4clarovideo.pe">
+    <title lang="es">AN: Edición Central</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210232700 -0500" stop="20261210234500 -0500" channel="4clarovideo.pe">
+    <title lang="es">América espectáculos</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210234500 -0500" stop="20261211000000 -0500" channel="4clarovideo.pe">
+    <title lang="es">Desvelados</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHDWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261120050000 -0500" stop="20261120053000 -0500" channel="5clarovideo.pe">
     <title lang="es">Telebrands</title>
@@ -1897,7 +1925,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261120180000 -0500" stop="20261120193000 -0500" channel="5clarovideo.pe">
-    <title lang="es">La familia Ingalls</title>
+    <title lang="es">La Familia Ingalls</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261120193000 -0500" stop="20261120203000 -0500" channel="5clarovideo.pe">
@@ -1973,7 +2001,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261123180000 -0500" stop="20261123193000 -0500" channel="5clarovideo.pe">
-    <title lang="es">La familia Ingalls</title>
+    <title lang="es">La Familia Ingalls</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261123193000 -0500" stop="20261123203000 -0500" channel="5clarovideo.pe">
@@ -2041,7 +2069,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261124180000 -0500" stop="20261124193000 -0500" channel="5clarovideo.pe">
-    <title lang="es">La familia Ingalls</title>
+    <title lang="es">La Familia Ingalls</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261124193000 -0500" stop="20261124203000 -0500" channel="5clarovideo.pe">
@@ -2109,7 +2137,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261125180000 -0500" stop="20261125193000 -0500" channel="5clarovideo.pe">
-    <title lang="es">La familia Ingalls</title>
+    <title lang="es">La Familia Ingalls</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261125193000 -0500" stop="20261125203000 -0500" channel="5clarovideo.pe">
@@ -2177,7 +2205,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261126180000 -0500" stop="20261126193000 -0500" channel="5clarovideo.pe">
-    <title lang="es">La familia Ingalls</title>
+    <title lang="es">La Familia Ingalls</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261126193000 -0500" stop="20261126203000 -0500" channel="5clarovideo.pe">
@@ -2245,7 +2273,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261127180000 -0500" stop="20261127193000 -0500" channel="5clarovideo.pe">
-    <title lang="es">La familia Ingalls</title>
+    <title lang="es">La Familia Ingalls</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261127193000 -0500" stop="20261127203000 -0500" channel="5clarovideo.pe">
@@ -2321,7 +2349,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261130180000 -0500" stop="20261130193000 -0500" channel="5clarovideo.pe">
-    <title lang="es">La familia Ingalls</title>
+    <title lang="es">La Familia Ingalls</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261130193000 -0500" stop="20261130203000 -0500" channel="5clarovideo.pe">
@@ -2389,7 +2417,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261201180000 -0500" stop="20261201193000 -0500" channel="5clarovideo.pe">
-    <title lang="es">La familia Ingalls</title>
+    <title lang="es">La Familia Ingalls</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261201193000 -0500" stop="20261201203000 -0500" channel="5clarovideo.pe">
@@ -2457,7 +2485,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261202180000 -0500" stop="20261202193000 -0500" channel="5clarovideo.pe">
-    <title lang="es">La familia Ingalls</title>
+    <title lang="es">La Familia Ingalls</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261202193000 -0500" stop="20261202203000 -0500" channel="5clarovideo.pe">
@@ -2525,7 +2553,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261203180000 -0500" stop="20261203193000 -0500" channel="5clarovideo.pe">
-    <title lang="es">La familia Ingalls</title>
+    <title lang="es">La Familia Ingalls</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261203193000 -0500" stop="20261203203000 -0500" channel="5clarovideo.pe">
@@ -2593,7 +2621,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261204180000 -0500" stop="20261204193000 -0500" channel="5clarovideo.pe">
-    <title lang="es">La familia Ingalls</title>
+    <title lang="es">La Familia Ingalls</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261204193000 -0500" stop="20261204203000 -0500" channel="5clarovideo.pe">
@@ -2669,7 +2697,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261207180000 -0500" stop="20261207193000 -0500" channel="5clarovideo.pe">
-    <title lang="es">La familia Ingalls</title>
+    <title lang="es">La Familia Ingalls</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261207193000 -0500" stop="20261207203000 -0500" channel="5clarovideo.pe">
@@ -2737,7 +2765,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261208180000 -0500" stop="20261208193000 -0500" channel="5clarovideo.pe">
-    <title lang="es">La familia Ingalls</title>
+    <title lang="es">La Familia Ingalls</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261208193000 -0500" stop="20261208203000 -0500" channel="5clarovideo.pe">
@@ -2805,7 +2833,7 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261209180000 -0500" stop="20261209193000 -0500" channel="5clarovideo.pe">
-    <title lang="es">La familia Ingalls</title>
+    <title lang="es">La Familia Ingalls</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261209193000 -0500" stop="20261209203000 -0500" channel="5clarovideo.pe">
@@ -2820,64 +2848,88 @@
     <title lang="es">Esta Noche</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261209230000 -0500" stop="20261210000000 -0500" channel="5clarovideo.pe">
+  <programme start="20261209230000 -0500" stop="20261210050000 -0500" channel="5clarovideo.pe">
     <title lang="es">Vale Todo</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119060000 -0500" stop="20261119070000 -0500" channel="12clarovideo.pe">
-    <title lang="es">Al Día Con Willax Nacional</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210050000 -0500" stop="20261210053000 -0500" channel="5clarovideo.pe">
+    <title lang="es">Telebrands</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119070000 -0500" stop="20261119130000 -0500" channel="12clarovideo.pe">
-    <title lang="es">Al Día Con Willax</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210053000 -0500" stop="20261210060000 -0500" channel="5clarovideo.pe">
+    <title lang="es">Buenos Días Perú Nacional</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119130000 -0500" stop="20261119133000 -0500" channel="12clarovideo.pe">
-    <title lang="es">Te Amaré Por Siempre</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210060000 -0500" stop="20261210073000 -0500" channel="5clarovideo.pe">
+    <title lang="es">Buenos Días Perú: Primera Edición</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119133000 -0500" stop="20261119143000 -0500" channel="12clarovideo.pe">
-    <title lang="es">Esposa Joven</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210073000 -0500" stop="20261210093000 -0500" channel="5clarovideo.pe">
+    <title lang="es">Buenos Días Perú: Segunda Edición</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119143000 -0500" stop="20261119170000 -0500" channel="12clarovideo.pe">
-    <title lang="es">Amor Y Fuego</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210093000 -0500" stop="20261210100000 -0500" channel="5clarovideo.pe">
+    <title lang="es">Quality Products</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119170000 -0500" stop="20261119180000 -0500" channel="12clarovideo.pe">
-    <title lang="es">Udm</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210100000 -0500" stop="20261210101500 -0500" channel="5clarovideo.pe">
+    <title lang="es">Fitosana</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119180000 -0500" stop="20261119190000 -0500" channel="12clarovideo.pe">
-    <title lang="es">Caso Cerrado</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210101500 -0500" stop="20261210104500 -0500" channel="5clarovideo.pe">
+    <title lang="es">Telebrands</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119190000 -0500" stop="20261119200000 -0500" channel="12clarovideo.pe">
-    <title lang="es">Willax Noticias Ed Central</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210104500 -0500" stop="20261210120000 -0500" channel="5clarovideo.pe">
+    <title lang="es">Detrás De Cámaras</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119200000 -0500" stop="20261119210000 -0500" channel="12clarovideo.pe">
-    <title lang="es">Contracorriente</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210120000 -0500" stop="20261210130000 -0500" channel="5clarovideo.pe">
+    <title lang="es">24 Horas Primera Edición Mediodía</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119210000 -0500" stop="20261119220000 -0500" channel="12clarovideo.pe">
-    <title lang="es">Mbas</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210130000 -0500" stop="20261210150000 -0500" channel="5clarovideo.pe">
+    <title lang="es">24 Horas Edición Medio Día</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119220000 -0500" stop="20261119230000 -0500" channel="12clarovideo.pe">
-    <title lang="es">Ahora Y En La Hora</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210150000 -0500" stop="20261210163000 -0500" channel="5clarovideo.pe">
+    <title lang="es">La Calle No Calla</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119230000 -0500" stop="20261120060000 -0500" channel="12clarovideo.pe">
-    <title lang="es">La Reina Del Sur</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210163000 -0500" stop="20261210180000 -0500" channel="5clarovideo.pe">
+    <title lang="es">La Hija Del Mariachi</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210180000 -0500" stop="20261210193000 -0500" channel="5clarovideo.pe">
+    <title lang="es">La Familia Ingalls</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210193000 -0500" stop="20261210203000 -0500" channel="5clarovideo.pe">
+    <title lang="es">Novelas Bíblicas</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210203000 -0500" stop="20261210220000 -0500" channel="5clarovideo.pe">
+    <title lang="es">24 Horas Edición Central</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210220000 -0500" stop="20261210230000 -0500" channel="5clarovideo.pe">
+    <title lang="es">Esta Noche</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210230000 -0500" stop="20261211000000 -0500" channel="5clarovideo.pe">
+    <title lang="es">Vale Todo</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANAWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261120060000 -0500" stop="20261120070000 -0500" channel="12clarovideo.pe">
     <title lang="es">Al Día Con Willax Nacional</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261120070000 -0500" stop="20261120130000 -0500" channel="12clarovideo.pe">
+  <programme start="20261120070000 -0500" stop="20261120090000 -0500" channel="12clarovideo.pe">
     <title lang="es">Al Día Con Willax</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261120090000 -0500" stop="20261120130000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Willax En Vivo: El Especial Del Papa Peruano</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261120130000 -0500" stop="20261120133000 -0500" channel="12clarovideo.pe">
@@ -2932,8 +2984,12 @@
     <title lang="es">Al Día Con Willax Nacional</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261123070000 -0500" stop="20261123130000 -0500" channel="12clarovideo.pe">
+  <programme start="20261123070000 -0500" stop="20261123090000 -0500" channel="12clarovideo.pe">
     <title lang="es">Al Día Con Willax</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261123090000 -0500" stop="20261123130000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Willax En Vivo: El Especial Del Papa Peruano</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261123130000 -0500" stop="20261123133000 -0500" channel="12clarovideo.pe">
@@ -2980,8 +3036,12 @@
     <title lang="es">Al Día Con Willax Nacional</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261124070000 -0500" stop="20261124130000 -0500" channel="12clarovideo.pe">
+  <programme start="20261124070000 -0500" stop="20261124090000 -0500" channel="12clarovideo.pe">
     <title lang="es">Al Día Con Willax</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261124090000 -0500" stop="20261124130000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Willax En Vivo: El Especial Del Papa Peruano</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261124130000 -0500" stop="20261124133000 -0500" channel="12clarovideo.pe">
@@ -3028,8 +3088,12 @@
     <title lang="es">Al Día Con Willax Nacional</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261125070000 -0500" stop="20261125130000 -0500" channel="12clarovideo.pe">
+  <programme start="20261125070000 -0500" stop="20261125090000 -0500" channel="12clarovideo.pe">
     <title lang="es">Al Día Con Willax</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261125090000 -0500" stop="20261125130000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Willax En Vivo: El Especial Del Papa Peruano</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261125130000 -0500" stop="20261125133000 -0500" channel="12clarovideo.pe">
@@ -3076,8 +3140,12 @@
     <title lang="es">Al Día Con Willax Nacional</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261126070000 -0500" stop="20261126130000 -0500" channel="12clarovideo.pe">
+  <programme start="20261126070000 -0500" stop="20261126090000 -0500" channel="12clarovideo.pe">
     <title lang="es">Al Día Con Willax</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126130000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Willax En Vivo: El Especial Del Papa Peruano</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261126130000 -0500" stop="20261126133000 -0500" channel="12clarovideo.pe">
@@ -3124,8 +3192,12 @@
     <title lang="es">Al Día Con Willax Nacional</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261127070000 -0500" stop="20261127130000 -0500" channel="12clarovideo.pe">
+  <programme start="20261127070000 -0500" stop="20261127090000 -0500" channel="12clarovideo.pe">
     <title lang="es">Al Día Con Willax</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127130000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Willax En Vivo: El Especial Del Papa Peruano</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261127130000 -0500" stop="20261127133000 -0500" channel="12clarovideo.pe">
@@ -3180,8 +3252,12 @@
     <title lang="es">Al Día Con Willax Nacional</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261130070000 -0500" stop="20261130130000 -0500" channel="12clarovideo.pe">
+  <programme start="20261130070000 -0500" stop="20261130090000 -0500" channel="12clarovideo.pe">
     <title lang="es">Al Día Con Willax</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261130090000 -0500" stop="20261130130000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Willax En Vivo: El Especial Del Papa Peruano</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261130130000 -0500" stop="20261130133000 -0500" channel="12clarovideo.pe">
@@ -3228,8 +3304,12 @@
     <title lang="es">Al Día Con Willax Nacional</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261201070000 -0500" stop="20261201130000 -0500" channel="12clarovideo.pe">
+  <programme start="20261201070000 -0500" stop="20261201090000 -0500" channel="12clarovideo.pe">
     <title lang="es">Al Día Con Willax</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261201090000 -0500" stop="20261201130000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Willax En Vivo: El Especial Del Papa Peruano</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261201130000 -0500" stop="20261201133000 -0500" channel="12clarovideo.pe">
@@ -3276,8 +3356,12 @@
     <title lang="es">Al Día Con Willax Nacional</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261202070000 -0500" stop="20261202130000 -0500" channel="12clarovideo.pe">
+  <programme start="20261202070000 -0500" stop="20261202090000 -0500" channel="12clarovideo.pe">
     <title lang="es">Al Día Con Willax</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261202090000 -0500" stop="20261202130000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Willax En Vivo: El Especial Del Papa Peruano</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261202130000 -0500" stop="20261202133000 -0500" channel="12clarovideo.pe">
@@ -3324,8 +3408,12 @@
     <title lang="es">Al Día Con Willax Nacional</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261203070000 -0500" stop="20261203130000 -0500" channel="12clarovideo.pe">
+  <programme start="20261203070000 -0500" stop="20261203090000 -0500" channel="12clarovideo.pe">
     <title lang="es">Al Día Con Willax</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261203090000 -0500" stop="20261203130000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Willax En Vivo: El Especial Del Papa Peruano</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261203130000 -0500" stop="20261203133000 -0500" channel="12clarovideo.pe">
@@ -3372,8 +3460,12 @@
     <title lang="es">Al Día Con Willax Nacional</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261204070000 -0500" stop="20261204130000 -0500" channel="12clarovideo.pe">
+  <programme start="20261204070000 -0500" stop="20261204090000 -0500" channel="12clarovideo.pe">
     <title lang="es">Al Día Con Willax</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261204090000 -0500" stop="20261204130000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Willax En Vivo: El Especial Del Papa Peruano</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261204130000 -0500" stop="20261204133000 -0500" channel="12clarovideo.pe">
@@ -3428,8 +3520,12 @@
     <title lang="es">Al Día Con Willax Nacional</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261207070000 -0500" stop="20261207130000 -0500" channel="12clarovideo.pe">
+  <programme start="20261207070000 -0500" stop="20261207090000 -0500" channel="12clarovideo.pe">
     <title lang="es">Al Día Con Willax</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261207090000 -0500" stop="20261207130000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Willax En Vivo: El Especial Del Papa Peruano</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261207130000 -0500" stop="20261207133000 -0500" channel="12clarovideo.pe">
@@ -3476,8 +3572,12 @@
     <title lang="es">Al Día Con Willax Nacional</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261208070000 -0500" stop="20261208130000 -0500" channel="12clarovideo.pe">
+  <programme start="20261208070000 -0500" stop="20261208090000 -0500" channel="12clarovideo.pe">
     <title lang="es">Al Día Con Willax</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261208090000 -0500" stop="20261208130000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Willax En Vivo: El Especial Del Papa Peruano</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261208130000 -0500" stop="20261208133000 -0500" channel="12clarovideo.pe">
@@ -3524,8 +3624,12 @@
     <title lang="es">Al Día Con Willax Nacional</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261209070000 -0500" stop="20261209130000 -0500" channel="12clarovideo.pe">
+  <programme start="20261209070000 -0500" stop="20261209090000 -0500" channel="12clarovideo.pe">
     <title lang="es">Al Día Con Willax</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261209090000 -0500" stop="20261209130000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Willax En Vivo: El Especial Del Papa Peruano</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261209130000 -0500" stop="20261209133000 -0500" channel="12clarovideo.pe">
@@ -3564,97 +3668,61 @@
     <title lang="es">Ahora Y En La Hora</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261209230000 -0500" stop="20261210000000 -0500" channel="12clarovideo.pe">
+  <programme start="20261209230000 -0500" stop="20261210060000 -0500" channel="12clarovideo.pe">
     <title lang="es">La Reina Del Sur</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119000000 -0500" stop="20261119010000 -0500" channel="14clarovideo.pe">
-    <title lang="es">TVPerú Sur</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210060000 -0500" stop="20261210070000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Al Día Con Willax Nacional</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119010000 -0500" stop="20261119020000 -0500" channel="14clarovideo.pe">
-    <title lang="es">TVPerú Oriente</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210070000 -0500" stop="20261210090000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Al Día Con Willax</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119020000 -0500" stop="20261119030000 -0500" channel="14clarovideo.pe">
-    <title lang="es">TVPerú Centro</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210090000 -0500" stop="20261210130000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Willax En Vivo: El Especial Del Papa Peruano</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119030000 -0500" stop="20261119040000 -0500" channel="14clarovideo.pe">
-    <title lang="es">Mercado Peruano</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210130000 -0500" stop="20261210133000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Te Amaré Por Siempre</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119040000 -0500" stop="20261119050000 -0500" channel="14clarovideo.pe">
-    <title lang="es">En Pared</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210133000 -0500" stop="20261210143000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Esposa Joven</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119050000 -0500" stop="20261119053000 -0500" channel="14clarovideo.pe">
-    <title lang="es">Jiwasanaka</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210143000 -0500" stop="20261210170000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Amor Y Fuego</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119053000 -0500" stop="20261119060000 -0500" channel="14clarovideo.pe">
-    <title lang="es">Ñuqanchik</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210170000 -0500" stop="20261210180000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Udm</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119060000 -0500" stop="20261119083000 -0500" channel="14clarovideo.pe">
-    <title lang="es">Primera Hora</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210180000 -0500" stop="20261210190000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Caso Cerrado</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119083000 -0500" stop="20261119090000 -0500" channel="14clarovideo.pe">
-    <title lang="es">Deportes Express</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210190000 -0500" stop="20261210200000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Willax Noticias Ed Central</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119090000 -0500" stop="20261119120000 -0500" channel="14clarovideo.pe">
-    <title lang="es">Noticias Mañana</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210200000 -0500" stop="20261210210000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Contracorriente</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119120000 -0500" stop="20261119130000 -0500" channel="14clarovideo.pe">
-    <title lang="es">Regiones Ahora</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210210000 -0500" stop="20261210220000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Mbas</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119130000 -0500" stop="20261119140000 -0500" channel="14clarovideo.pe">
-    <title lang="es">Noticias Ahora</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210220000 -0500" stop="20261210230000 -0500" channel="12clarovideo.pe">
+    <title lang="es">Ahora Y En La Hora</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
-  <programme start="20261119140000 -0500" stop="20261119143000 -0500" channel="14clarovideo.pe">
-    <title lang="es">Jiwasanaka</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119143000 -0500" stop="20261119150000 -0500" channel="14clarovideo.pe">
-    <title lang="es">Ñuqanchik</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119150000 -0500" stop="20261119160000 -0500" channel="14clarovideo.pe">
-    <title lang="es">TVPerú Noticias</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119160000 -0500" stop="20261119170000 -0500" channel="14clarovideo.pe">
-    <title lang="es">Aliados Por La Seguridad</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119170000 -0500" stop="20261119190000 -0500" channel="14clarovideo.pe">
-    <title lang="es">TVPerú Noticias Tarde</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119190000 -0500" stop="20261119200000 -0500" channel="14clarovideo.pe">
-    <title lang="es">Geomundo</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119200000 -0500" stop="20261119210000 -0500" channel="14clarovideo.pe">
-    <title lang="es">Hora Central</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119210000 -0500" stop="20261119220000 -0500" channel="14clarovideo.pe">
-    <title lang="es">En Pared</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119220000 -0500" stop="20261119230000 -0500" channel="14clarovideo.pe">
-    <title lang="es">Tú Decisión 2026</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
-  </programme>
-  <programme start="20261119230000 -0500" stop="20261120000000 -0500" channel="14clarovideo.pe">
-    <title lang="es">TVPerú Norte</title>
-    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  <programme start="20261210230000 -0500" stop="20261211000000 -0500" channel="12clarovideo.pe">
+    <title lang="es">La Reina Del Sur</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAXWHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261120000000 -0500" stop="20261120010000 -0500" channel="14clarovideo.pe">
     <title lang="es">TVPerú Sur</title>
@@ -4909,6 +4977,94 @@
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
   </programme>
   <programme start="20261209230000 -0500" stop="20261210000000 -0500" channel="14clarovideo.pe">
+    <title lang="es">TVPerú Norte</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210000000 -0500" stop="20261210010000 -0500" channel="14clarovideo.pe">
+    <title lang="es">TVPerú Sur</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210010000 -0500" stop="20261210020000 -0500" channel="14clarovideo.pe">
+    <title lang="es">TVPerú Oriente</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210020000 -0500" stop="20261210030000 -0500" channel="14clarovideo.pe">
+    <title lang="es">TVPerú Centro</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210030000 -0500" stop="20261210040000 -0500" channel="14clarovideo.pe">
+    <title lang="es">Mercado Peruano</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210040000 -0500" stop="20261210050000 -0500" channel="14clarovideo.pe">
+    <title lang="es">En Pared</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210050000 -0500" stop="20261210053000 -0500" channel="14clarovideo.pe">
+    <title lang="es">Jiwasanaka</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210053000 -0500" stop="20261210060000 -0500" channel="14clarovideo.pe">
+    <title lang="es">Ñuqanchik</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210060000 -0500" stop="20261210083000 -0500" channel="14clarovideo.pe">
+    <title lang="es">Primera Hora</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210083000 -0500" stop="20261210090000 -0500" channel="14clarovideo.pe">
+    <title lang="es">Deportes Express</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210090000 -0500" stop="20261210120000 -0500" channel="14clarovideo.pe">
+    <title lang="es">Noticias Mañana</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210120000 -0500" stop="20261210130000 -0500" channel="14clarovideo.pe">
+    <title lang="es">Regiones Ahora</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210130000 -0500" stop="20261210140000 -0500" channel="14clarovideo.pe">
+    <title lang="es">Noticias Ahora</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210140000 -0500" stop="20261210143000 -0500" channel="14clarovideo.pe">
+    <title lang="es">Jiwasanaka</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210143000 -0500" stop="20261210150000 -0500" channel="14clarovideo.pe">
+    <title lang="es">Ñuqanchik</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210150000 -0500" stop="20261210160000 -0500" channel="14clarovideo.pe">
+    <title lang="es">TVPerú Noticias</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210160000 -0500" stop="20261210170000 -0500" channel="14clarovideo.pe">
+    <title lang="es">Aliados Por La Seguridad</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210170000 -0500" stop="20261210190000 -0500" channel="14clarovideo.pe">
+    <title lang="es">TVPerú Noticias Tarde</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210190000 -0500" stop="20261210200000 -0500" channel="14clarovideo.pe">
+    <title lang="es">Geomundo</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210200000 -0500" stop="20261210210000 -0500" channel="14clarovideo.pe">
+    <title lang="es">Hora Central</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210210000 -0500" stop="20261210220000 -0500" channel="14clarovideo.pe">
+    <title lang="es">En Pared</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210220000 -0500" stop="20261210230000 -0500" channel="14clarovideo.pe">
+    <title lang="es">Tú Decisión 2026</title>
+    <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
+  </programme>
+  <programme start="20261210230000 -0500" stop="20261211000000 -0500" channel="14clarovideo.pe">
     <title lang="es">TVPerú Norte</title>
     <icon src="https://clarovideocdn0.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73WHORIZONTAL.jpg?size=290x163"/>
   </programme>
