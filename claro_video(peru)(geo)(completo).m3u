@@ -1,0 +1,317 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/DYLANVIDEOS26/generador-de-apps-m3u/refs/heads/main/claro_video(peru).xml"
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/LATINA/EXPORTACION_WEB/SS/LATINA_t-290x163.png" group-title="Perú", 002 LATINA
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/LATINAHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/L1/EXPORTACION_WEB/SS/L1_t-290x163.png" group-title="Perú", 003 L1
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/LIGA1/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="4clarovideo.pe" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/AMERICAHD/EXPORTACION_WEB/SS/AMERICAHD_t-290x163.png" group-title="Perú", 004 AMERICA HD (Funciona)
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/AMERICAHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="5clarovideo.pe" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANA_t-290x163.png" group-title="Perú", 005 PANAMERICANA (Funciona)
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/PANAMERICANAHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/RPP/EXPORTACION_WEB/SS/RPP_t-290x163.png" group-title="Perú", 006 RPP
+https://pebpktstvhls-5.clarovideo.com/bpk-tv/RPP/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TVPER/EXPORTACION_WEB/SS/TVPER_t-290x163.png" group-title="Perú", 007 TV PERÚ
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/TVPERUHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/ALACOCINATV/EXPORTACION_WEB/SS/ALACOCINATV_t-290x163.png" group-title="Perú", 008 ALACOCINA TV
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/ALACOCINATVHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/ATV/EXPORTACION_WEB/SS/ATV_t-290x163.png" group-title="Perú", 009 ATV
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/ATVHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/L1MAX/EXPORTACION_WEB/SS/L1MAX_t-290x163.png" group-title="Perú", 010 L1MAX
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/LIGA1MAX/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/VIVATV/EXPORTACION_WEB/SS/VIVATV_t-290x163.png" group-title="Perú", 011 VIVA TV
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/VIVATV/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="12clarovideo.pe" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAX_t-290x163.png" group-title="Perú", 012 WILLAX (Funciona)
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/WILLAXHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/GLOBAL/EXPORTACION_WEB/SS/GLOBAL_t-290x163.png" group-title="Perú", 013 GLOBAL
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/GLOBALHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="14clarovideo.pe" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TVPERU73HD/EXPORTACION_WEB/SS/TVPERU73HD_t-290x163.png" group-title="Perú", 014 TV PERÚ 7.3 (Funciona)
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/TVPERU73HD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/IPE/EXPORTACION_WEB/SS/IPE_t-290x163.png" group-title="Perú", 015 IPE
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/IPEHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TVLIBERTAD/EXPORTACION_WEB/SS/TVLIBERTAD_t-290x163.png" group-title="Perú", 016 TVLIBERTAD
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/TVLIBERTAD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/ATVPLUS/EXPORTACION_WEB/SS/ATVPLUS_t-290x163.png" group-title="Perú", 017 ATV PLUS
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/ATVPLUS/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/JUNTOSTV/EXPORTACION_WEB/SS/JUNTOSTV_t-290x163.png" group-title="Perú", 017 JUNTOS TV
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/CANALJHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TRIVU/EXPORTACION_WEB/SS/TRIVU_t-290x163.png" group-title="Perú", 018 TRIVU
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/TRIVU/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/EXITOSA/EXPORTACION_WEB/SS/EXITOSA_t-290x163.png" group-title="Perú", 019 EXITOSA
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/EXITOSAHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/LATELE/EXPORTACION_WEB/SS/LATELE_t-290x163.png" group-title="Perú", 020 LA TELE
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/LATELE/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/CANALJUSTICIA/EXPORTACION_WEB/SS/CANALJUSTICIA_t-290x163.png" group-title="Perú", 021 CANAL JUSTICIA
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/CANALJUSTICIA/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/CANALDELCONGRESOPER/EXPORTACION_WEB/SS/CANALDELCONGRESOPER_t-290x163.png" group-title="Perú", 022 CANAL DEL CONGRESO PERÚ
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/CANALCONGRESO/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/PBO/EXPORTACION_WEB/SS/PBO_t-290x163.png" group-title="Perú", 023 PBO
+https://pebpktstvhls-5.clarovideo.com/bpk-tv/PBO/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/ATVSURNEW/EXPORTACION_WEB/SS/ATVSURNEW_t-290x163.png" group-title="Perú", 025 ATV SUR NEW
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/ATVSUR/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/SOLTVPLUS/EXPORTACION_WEB/SS/SOLTVPLUS_t-290x163.png" group-title="Perú", 026 SOL TV PLUS
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/SOLTVPLUS/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/NATIVA/EXPORTACION_WEB/SS/NATIVA_t-290x163.png" group-title="Perú", 027 NATIVA
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/UCITVHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/TVCOSMOS/EXPORTACION_WEB/SS/TVCOSMOS_t-290x163.png" group-title="Perú", 028 TV COSMOS
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/TVCOSMOS/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/DISCOVERYKIDSCHANNEL/EXPORTACION_WEB/SS/DISCOVERYKIDSCHANNEL_t-290x163.png" group-title="Perú", 030 DISCOVERY KIDS CHANNEL
+https://cablered.iptvperu.tv:1936/cablered/discoverykids_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/DISNEYJR/EXPORTACION_WEB/SS/DISNEYJR_t-290x163.png" group-title="Perú", 031 DISNEY JR
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/DISNEYJR/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/DISNEYCHANNELHD/EXPORTACION_WEB/SS/DISNEYCHANNELHD_t-290x163.png" group-title="Perú", 034 DISNEY CHANNEL
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/DISNEYCHANNEL/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/CARTOONNETWORK/EXPORTACION_WEB/SS/CARTOONNETWORK_t-290x163.png" group-title="Perú", 036 CARTOON NETWORK
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/CARTOONNETWORKHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/CARTOONITO/EXPORTACION_WEB/SS/CARTOONITO_t-290x163.png" group-title="Perú", 038 CARTOONITO
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/BOOMERANG/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/PLIMPLIM/EXPORTACION_WEB/SS/PLIMPLIM_t-290x163.png" group-title="Perú", 046 PLIM PLIM
+https://pebpktstvhls-5.clarovideo.com/bpk-tv/PLIMPLIM/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/CNNINTERNACIONAL/EXPORTACION_WEB/SS/CNNINTERNACIONAL_t-290x163.png" group-title="Perú", 051 CNN INTERNACIONAL
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/CNN/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/CLAROSPORTS/EXPORTACION_WEB/SS/CLAROSPORTS_t-290x163.png" group-title="Perú", 060 CLARO SPORTS
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/CLAROSPORTSHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/ESPN/EXPORTACION_WEB/SS/ESPN_t-290x163.png" group-title="Perú", 061 ESPN
+https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/ESPN2/EXPORTACION_WEB/SS/ESPN2_t-290x163.png" group-title="Perú", 062 ESPN 2
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/ESPN2/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/ESPN3/EXPORTACION_WEB/SS/ESPN3_t-290x163.png" group-title="Perú", 063 ESPN 3
+https://cablered.iptvperu.tv:1936/cablered/espn3_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/ESPN4/EXPORTACION_WEB/SS/ESPN4_t-290x163.png" group-title="Perú", 064 ESPN 4
+https://cablered.iptvperu.tv:1936/cablered/espn4_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/ESPN5/EXPORTACION_WEB/SS/ESPN5_t-290x163.png" group-title="Perú", 065 ESPN 5
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/FOXSPORTSHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/ESPN6/EXPORTACION_WEB/SS/ESPN6_t-290x163.png" group-title="Perú", 066 ESPN 6
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/FOXSPORTS2HD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/ESPN7/EXPORTACION_WEB/SS/ESPN7_t-290x163.png" group-title="Perú", 067 ESPN 7
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/FOXSPORTS3HD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/TYCSPORTS/EXPORTACION_WEB/SS/TYCSPORTS_t-290x163.png" group-title="Perú", 068 TYC SPORTS
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/TYCSPORTS/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/DISCOVERYCHANNEL/EXPORTACION_WEB/SS/DISCOVERYCHANNEL_t-290x163.png" group-title="Perú", 070 DISCOVERY CHANNEL
+https://cablered.iptvperu.tv:1936/cablered/discoveryhd_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/ANIMALPLANETHD/EXPORTACION_WEB/SS/ANIMALPLANETHD_t-290x163.png" group-title="Perú", 071 ANIMAL PLANET HD
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/ANIMALPLANETHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/LOVENATURE/EXPORTACION_WEB/SS/LOVENATURE_t-290x163.png" group-title="Perú", 072 LOVE NATURE
+https://cablered.iptvperu.tv:1936/cablered/lovenature_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/NATGEOHD/EXPORTACION_WEB/SS/NATGEOHD_t-290x163.png" group-title="Perú", 073 NAT GEO HD
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/NATGEOHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/H2/EXPORTACION_WEB/SS/H2_t-290x163.png" group-title="Perú", 075 HISTORY 2
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/H2/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/DISCOVERYTURBOHD/EXPORTACION_WEB/SS/DISCOVERYTURBOHD_t-290x163.png" group-title="Perú", 076 DISCOVERY TURBO HD
+https://cablered.iptvperu.tv:1936/cablered/discoveryturbo_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/CONCERTCHANNEL/EXPORTACION_WEB/SS/CONCERTCHANNEL_t-290x163.png" group-title="Perú", 091 CONCERT CHANNEL
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/CONCERTCHANNELHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/CANALCLARO/EXPORTACION_WEB/SS/CANALCLARO_t-290x163.png" group-title="Perú", 100 CANAL CLARO
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/CANALCLAROHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/DISCOVERYIDHD/EXPORTACION_WEB/SS/DISCOVERYIDHD_t-290x163.png" group-title="Perú", 101 DISCOVERY ID HD
+https://cablered.iptvperu.tv:1936/cablered/discoveryid_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TLCCHANNEL/EXPORTACION_WEB/SS/TLCCHANNEL_t-290x163.png" group-title="Perú", 102 TLC CHANNEL
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/TLC/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/ELGOURMETHD/EXPORTACION_WEB/SS/ELGOURMETHD_t-290x163.png" group-title="Perú", 105 EL GOURMET
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/ELGOURMET/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/PASIONES/EXPORTACION_WEB/SS/PASIONES_t-290x163.png" group-title="Perú", 107 PASIONES
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/PASIONESHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/AMCSERIES/EXPORTACION_WEB/SS/AMCSERIES_t-290x163.png" group-title="Perú", 108 AMC SERIES
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/MASCHICHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/EENTERTAINMENT/EXPORTACION_WEB/SS/EENTERTAINMENT_t-290x163.png" group-title="Perú", 110 E ENTERTAINMENT HD
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/EENTERTAINMENT/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/LASESTRELLASHD/EXPORTACION_WEB/SS/LASESTRELLASHD_t-290x163.png" group-title="Perú", 114 CANAL DE LAS ESTRELLAS
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/LASESTRELLASHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TLNOVELAS/EXPORTACION_WEB/SS/TLNOVELAS_t-290x163.png" group-title="Perú", 115 TLNOVELAS
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/TLNOVELAS/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/SUNCHANNEL/EXPORTACION_WEB/SS/SUNCHANNEL_t-290x163.png" group-title="Perú", 116 SUNCHANNEL
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/SUNCHANNEL/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TNTSERIES/EXPORTACION_WEB/SS/TNTSERIES_t-290x163.png" group-title="Perú", 120 TNT SERIES
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/TNTSERIESHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/SONYCHANNEL/EXPORTACION_WEB/SS/SONYCHANNEL_t-290x163.png" group-title="Perú", 121 SONY CHANNEL
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/SONYHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/WARNERCHANNELHD/EXPORTACION_WEB/SS/WARNERCHANNELHD_t-290x163.png" group-title="Perú", 122 WARNER CHANNEL HD
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/WARNERCHANNELHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/STARCHANNEL/EXPORTACION_WEB/SS/STARCHANNEL_t-290x163.png" group-title="Perú", 123 STARCHANNEL
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/FOXHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/AXN/EXPORTACION_WEB/SS/AXN_t-290x163.png" group-title="Perú", 124 AXN
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/AXNHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/UNIVERSALHD/EXPORTACION_WEB/SS/UNIVERSALHD_t-290x163.png" group-title="Perú", 125 UNIVERSAL HD
+https://cablered.iptvperu.tv:1936/cablered/universalchannel_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/AEPER/EXPORTACION_WEB/SS/AEPER_t-290x163.png" group-title="Perú", 126 AE PERÚ
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/AEHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/LIFETIMENEW/EXPORTACION_WEB/SS/LIFETIMENEW_t-290x163.png" group-title="Perú", 127 LIFETIME NEW
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/LIFETIME/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TNTNOVELAS/EXPORTACION_WEB/SS/TNTNOVELAS_t-290x163.png" group-title="Perú", 128 TNT NOVELAS
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/TBS/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/DEPELICULA/EXPORTACION_WEB/SS/DEPELICULA_t-290x163.png" group-title="Perú", 142 DEPELICULA
+https://pebpktstvhls-5.clarovideo.com/bpk-tv/DEPELICULA/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/CLAROCINEMA/EXPORTACION_WEB/SS/CLAROCINEMA_t-290x163.png" group-title="Perú", 143 CLARO CINEMA
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/CLAROCINEMA/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/MULTIPREMIER/EXPORTACION_WEB/SS/MULTIPREMIER_t-290x163.png" group-title="Perú", 144 MULTIPREMIER
+https://pebpktstvhls-5.clarovideo.com/bpk-tv/MULTIPREMIER/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/TCM/EXPORTACION_WEB/SS/TCM_t-290x163.png" group-title="Perú", 146 TCM
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/TCM/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/FX/EXPORTACION_WEB/SS/FX_t-290x163.png" group-title="Perú", 147 FX
+https://pebpktstvhls-5.clarovideo.com/bpk-tv/FXHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/SPACEPE/EXPORTACION_WEB/SS/SPACEPE_t-290x163.png" group-title="Perú", 149 SPACE PE
+https://pebpktstvhls-5.clarovideo.com/bpk-tv/SPACEHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/AMC/EXPORTACION_WEB/SS/AMC_t-290x163.png" group-title="Perú", 150 AMC
+https://pebpktstvhls-5.clarovideo.com/bpk-tv/AMCHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/EUROCHANNEL/EXPORTACION_WEB/SS/EUROCHANNEL_t-290x163.png" group-title="Perú", 151 EUROCHANNEL
+https://pebpktstvhls-5.clarovideo.com/bpk-tv/EUROCHANNEL/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/STUDIOUNIVERSAL/EXPORTACION_WEB/SS/STUDIOUNIVERSAL_t-290x163.png" group-title="Perú", 153 STUDIO UNIVERSAL
+https://pebpktstvhls-5.clarovideo.com/bpk-tv/STUDIOUNIVERSALHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TNT/EXPORTACION_WEB/SS/TNT_t-290x163.png" group-title="Perú", 154 TNT
+https://pebpktstvhls-5.clarovideo.com/bpk-tv/TNTHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/GOLDEN/EXPORTACION_WEB/SS/GOLDEN_t-290x163.png" group-title="Perú", 156 GOLDEN
+https://pebpktstvhls-5.clarovideo.com/bpk-tv/GOLDEN/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/GOLDENEDGE/EXPORTACION_WEB/SS/GOLDENEDGE_t-290x163.png" group-title="Perú", 157 GOLDEN EDGE
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/GOLDENEDGE/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/CINECANALHD/EXPORTACION_WEB/SS/CINECANALHD_t-290x163.png" group-title="Perú", 158 CINECANAL HD
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/CINECANALHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/CINEMAX/EXPORTACION_WEB/SS/CINEMAX_t-290x163.png" group-title="Perú", 159 CINEMAX
+https://pebpktstvhls-5.clarovideo.com/bpk-tv/CINEMAXHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/CINELATINONEW/EXPORTACION_WEB/SS/CINELATINONEW_t-290x163.png" group-title="Perú", 162 CINE LATINO NEW
+https://pebpktstvhls-5.clarovideo.com/bpk-tv/CINELATINO/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/CARACOL/EXPORTACION_WEB/SS/CARACOL_t-290x163.png" group-title="Perú", 200 CARACOL
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/CARACOL/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/ELTRECE/EXPORTACION_WEB/SS/ELTRECE_t-290x163.png" group-title="Perú", 201 EL TRECE
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/ELTRECE/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/CCTV4/EXPORTACION_WEB/SS/CCTV4_t-290x163.png" group-title="Perú", 203 CCTV 4
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/CCTV4/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TVE/EXPORTACION_WEB/SS/TVE_t-290x163.png" group-title="Perú", 205 TVE
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/TVE/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/INTIHD/EXPORTACION_WEB/SS/INTIHD_t-290x163.png" group-title="Perú", 206 INTI HD
+https://pebpktstvhls-5.clarovideo.com/bpk-tv/INTIHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/DWESPAOL/EXPORTACION_WEB/SS/DWESPAOL_t-290x163.png" group-title="Perú", 208 DW ESPAÑOL
+https://cablered.iptvperu.tv:1936/cablered/dw_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TVN/EXPORTACION_WEB/SS/TVN_t-290x163.png" group-title="Perú", 209 TVN
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/TVN/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/FRANCE24HD/EXPORTACION_WEB/SS/FRANCE24HD_t-290x163.png" group-title="Perú", 210 FRANCE 24 HD
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/FRANCE24HD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/NHK/EXPORTACION_WEB/SS/NHK_t-290x163.png" group-title="Perú", 212 NHK
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/NHKWORLD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/RT/EXPORTACION_WEB/SS/RT_t-290x163.png" group-title="Perú", 214 RT
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/RT/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/ANTENA3INTERNACIONALHD/EXPORTACION_WEB/SS/ANTENA3INTERNACIONALHD_t-290x163.png" group-title="Perú", 219 ANTENA 3 INTERNACIONAL HD
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/ANTENA3/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/BETHEL/EXPORTACION_WEB/SS/BETHEL_t-290x163.png" group-title="Perú", 230 BETHEL
+https://pebpktstvhls-5.clarovideo.com/bpk-tv/BETHEL/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/ENLACE/EXPORTACION_WEB/SS/ENLACE_t-290x163.png" group-title="Perú", 231 ENLACE
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/ENLACE/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/3ABN/EXPORTACION_WEB/SS/3ABN_t-290x163.png" group-title="Perú", 232 3ABN
+https://pebpktstvhls-5.clarovideo.com/bpk-tv/3ABN/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/EWTN/EXPORTACION_WEB/SS/EWTN_t-290x163.png" group-title="Perú", 233 EWTN
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/EWTN/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/ESNE/EXPORTACION_WEB/SS/ESNE_t-290x163.png" group-title="Perú", 234 ESNE
+https://pebpktstvhls-5.clarovideo.com/bpk-tv/ESNE/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TVFAMILIA/EXPORTACION_WEB/SS/TVFAMILIA_t-290x163.png" group-title="Perú", 236 TV FAMILIA
+https://pebpktstvhls-5.clarovideo.com/bpk-tv/TVFAMILIA/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/MONITOR/EXPORTACION_WEB/SS/MONITOR_t-290x163.png" group-title="Perú", 752 MONITOR
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/MONITOR/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/HOLATV/EXPORTACION_WEB/SS/HOLATV_t-290x163.png" group-title="Perú", 2003 HOLA TV
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/HOLATV/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/A3SERIES/EXPORTACION_WEB/SS/A3SERIES_t-290x163.png" group-title="Perú", 2004 A3SERIES
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/A3SERIES/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/A3CINE/EXPORTACION_WEB/SS/A3CINE_t-290x163.png" group-title="Perú", 2005 A3CINE
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/A3CINE/hls_fk/index.m3u8
+
