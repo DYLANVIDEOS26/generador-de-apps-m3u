@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="EPG Peru Generator">
+
+  <!-- ==================== CANALES ==================== -->
+  <channel id="directvgo_epg">
+    <display-name>DGO</display-name>
+    <icon src="https://dtvgo-cms-prd.s3.amazonaws.com/DGO_BUCKET/Logo-Menu-DGO.png" />
+  </channel>
+  <channel id="directvgo_americatvperu">
+    <display-name>América TV</display-name>
+    <icon src="https://i.imgur.com/0qEWYWQ.png" />
+  </channel>
+  <channel id="directvgo_latina">
+    <display-name>Latina</display-name>
+    <icon src="https://i.imgur.com/PBLumj8.png" />
+  </channel>
+  <channel id="directvgo_atv9">
+    <display-name>ATV</display-name>
+    <icon src="https://i.imgur.com/4RNVWqP.png" />
+  </channel>
+  <channel id="directvgo_panamericanatv">
+    <display-name>Panamericana TV</display-name>
+    <icon src="https://i.imgur.com/BmeHpWf.png" />
+  </channel>
+  <channel id="directvgo_willax">
+    <display-name>Willax</display-name>
+    <icon src="https://i.imgur.com/xbgEdK7.png" />
+  </channel>
+  <channel id="directvgo_tvperu">
+    <display-name>TV Perú</display-name>
+    <icon src="https://i.imgur.com/dSRl0yF.png" />
+  </channel>
+  <channel id="directvgo_ovacion">
+    <display-name>Ovación</display-name>
+    <icon src="https://i.imgur.com/aTvGR88.png" />
+  </channel>
+
+  <!-- ==================== DGO (24 al 26 Nov 2026) ==================== -->
+  <programme start="20261124000000 -0500" stop="20261124120000 -0500" channel="directvgo_epg"><title lang="es">Programación DGO Perú</title></programme>
+  <programme start="20261124120000 -0500" stop="20261125000000 -0500" channel="directvgo_epg"><title lang="es">Programación DGO Perú</title></programme>
+  <programme start="20261125000000 -0500" stop="20261125120000 -0500" channel="directvgo_epg"><title lang="es">Programación DGO Perú</title></programme>
+  <programme start="20261125120000 -0500" stop="20261126000000 -0500" channel="directvgo_epg"><title lang="es">Programación DGO Perú</title></programme>
+  <programme start="20261126000000 -0500" stop="20261126120000 -0500" channel="directvgo_epg"><title lang="es">Programación DGO Perú</title></programme>
+  <programme start="20261126120000 -0500" stop="20261127000000 -0500" channel="directvgo_epg"><title lang="es">Programación DGO Perú</title></programme>
+
+  <!-- ==================== AMÉRICA TV ==================== -->
+  <!-- Martes 24 Nov 2026 -->
+  <programme start="20261124003000 -0500" stop="20261124013000 -0500" channel="directvgo_americatvperu"><title lang="es">Los hilos del pasado</title></programme>
+  <programme start="20261124013000 -0500" stop="20261124021000 -0500" channel="directvgo_americatvperu"><title lang="es">Destilando amor</title></programme>
+  <programme start="20261124021000 -0500" stop="20261124023000 -0500" channel="directvgo_americatvperu"><title lang="es">América espectáculos</title></programme>
+  <programme start="20261124023000 -0500" stop="20261124033000 -0500" channel="directvgo_americatvperu"><title lang="es">América espectáculos</title></programme>
+  <programme start="20261124033000 -0500" stop="20261124050000 -0500" channel="directvgo_americatvperu"><title lang="es">Mande quien mande</title></programme>
+  <programme start="20261124050000 -0500" stop="20261124065000 -0500" channel="directvgo_americatvperu"><title lang="es">América Noticias: Primera edición</title></programme>
+  <programme start="20261124065000 -0500" stop="20261124070000 -0500" channel="directvgo_americatvperu"><title lang="es">América Noticias: Primera edición</title></programme>
+  <programme start="20261124070000 -0500" stop="20261124085000 -0500" channel="directvgo_americatvperu"><title lang="es">América Noticias: Primera edición</title></programme>
+  <programme start="20261124085000 -0500" stop="20261124091000 -0500" channel="directvgo_americatvperu"><title lang="es">América Deportes</title></programme>
+  <programme start="20261124091000 -0500" stop="20261124093000 -0500" channel="directvgo_americatvperu"><title lang="es">América espectáculos</title></programme>
+  <programme start="20261124093000 -0500" stop="20261124110000 -0500" channel="directvgo_americatvperu"><title lang="es">América hoy</title></programme>
+  <programme start="20261124110000 -0500" stop="20261124120000 -0500" channel="directvgo_americatvperu"><title lang="es">América espectáculos</title></programme>
+  <programme start="20261124120000 -0500" stop="20261124123500 -0500" channel="directvgo_americatvperu"><title lang="es">América Noticias: Edición mediodía</title></programme>
+  <programme start="20261124123500 -0500" stop="20261124124500 -0500" channel="directvgo_americatvperu"><title lang="es">América Deportes</title></programme>
+  <programme start="20261124124500 -0500" stop="20261124130000 -0500" channel="directvgo_americatvperu"><title lang="es">América espectáculos</title></programme>
+  <programme start="20261124130000 -0500" stop="20261124140000 -0500" channel="directvgo_americatvperu"><title lang="es">Destilando amor</title></programme>
+  <programme start="20261124140000 -0500" stop="20261124151000 -0500" channel="directvgo_americatvperu"><title lang="es">Mande quien mande</title></programme>
+  <programme start="20261124151000 -0500" stop="20261124160000 -0500" channel="directvgo_americatvperu"><title lang="es">Al fondo hay sitio</title></programme>
+  <programme start="20261124160000 -0500" stop="20261124170000 -0500" channel="directvgo_americatvperu"><title lang="es">Los hilos del pasado</title></programme>
+  <programme start="20261124170000 -0500" stop="20261124180000 -0500" channel="directvgo_americatvperu"><title lang="es">El Chavo del 8</title></programme>
+  <programme start="20261124180000 -0500" stop="20261124185000 -0500" channel="directvgo_americatvperu"><title lang="es">Los milagros de la rosa, Perú</title></programme>
+  <programme start="20261124185000 -0500" stop="20261124193000 -0500" channel="directvgo_americatvperu"><title lang="es">Los milagros de la rosa, Perú</title></programme>
+  <programme start="20261124193000 -0500" stop="20261124210000 -0500" channel="directvgo_americatvperu"><title lang="es">Esto es guerra</title></programme>
+  <programme start="20261124210000 -0500" stop="20261124220000 -0500" channel="directvgo_americatvperu"><title lang="es">Al fondo hay sitio</title></programme>
+  <programme start="20261124220000 -0500" stop="20261124230000 -0500" channel="directvgo_americatvperu"><title lang="es">La vida que me robaste</title></programme>
+  <programme start="20261124230000 -0500" stop="20261124231700 -0500" channel="directvgo_americatvperu"><title lang="es">América noticias: Edición central</title></programme>
+  <programme start="20261124231700 -0500" stop="20261124232400 -0500" channel="directvgo_americatvperu"><title lang="es">América Deportes</title></programme>
+  <programme start="20261124232400 -0500" stop="20261124232700 -0500" channel="directvgo_americatvperu"><title lang="es">América noticias: Edición central</title></programme>
+  <programme start="20261124232700 -0500" stop="20261124234500 -0500" channel="directvgo_americatvperu"><title lang="es">América espectáculos</title></programme>
+  <programme start="20261124234500 -0500" stop="20261125003000 -0500" channel="directvgo_americatvperu"><title lang="es">Desvelados</title></programme>
+
+  <!-- Miércoles 25 Nov 2026 (Incluye La Tinka 10:50 p.m.) -->
+  <programme start="20261125003000 -0500" stop="20261125013000 -0500" channel="directvgo_americatvperu"><title lang="es">Los hilos del pasado</title></programme>
+  <programme start="20261125013000 -0500" stop="20261125021000 -0500" channel="directvgo_americatvperu"><title lang="es">Destilando amor</title></programme>
+  <programme start="20261125021000 -0500" stop="20261125023000 -0500" channel="directvgo_americatvperu"><title lang="es">América espectáculos</title></programme>
+  <programme start="20261125023000 -0500" stop="20261125033000 -0500" channel="directvgo_americatvperu"><title lang="es">América espectáculos</title></programme>
+  <programme start="20261125033000 -0500" stop="20261125050000 -0500" channel="directvgo_americatvperu"><title lang="es">Mande quien mande</title></programme>
+  <programme start="20261125050000 -0500" stop="20261125065000 -0500" channel="directvgo_americatvperu"><title lang="es">América Noticias: Primera edición</title></programme>
+  <programme start="20261125065000 -0500" stop="20261125070000 -0500" channel="directvgo_americatvperu"><title lang="es">América Noticias: Primera edición</title></programme>
+  <programme start="20261125070000 -0500" stop="20261125085000 -0500" channel="directvgo_americatvperu"><title lang="es">América Noticias: Primera edición</title></programme>
+  <programme start="20261125085000 -0500" stop="20261125091000 -0500" channel="directvgo_americatvperu"><title lang="es">América Deportes</title></programme>
+  <programme start="20261125091000 -0500" stop="20261125093000 -0500" channel="directvgo_americatvperu"><title lang="es">América espectáculos</title></programme>
+  <programme start="20261125093000 -0500" stop="20261125110000 -0500" channel="directvgo_americatvperu"><title lang="es">América hoy</title></programme>
+  <programme start="20261125110000 -0500" stop="20261125120000 -0500" channel="directvgo_americatvperu"><title lang="es">América espectáculos</title></programme>
+  <programme start="20261125120000 -0500" stop="20261125123500 -0500" channel="directvgo_americatvperu"><title lang="es">América Noticias: Edición mediodía</title></programme>
+  <programme start="20261125123500 -0500" stop="20261125124500 -0500" channel="directvgo_americatvperu"><title lang="es">América Deportes</title></programme>
+  <programme start="20261125124500 -0500" stop="20261125130000 -0500" channel="directvgo_americatvperu"><title lang="es">América espectáculos</title></programme>
+  <programme start="20261125130000 -0500" stop="20261125140000 -0500" channel="directvgo_americatvperu"><title lang="es">Destilando amor</title></programme>
+  <programme start="20261125140000 -0500" stop="20261125151000 -0500" channel="directvgo_americatvperu"><title lang="es">Mande quien mande</title></programme>
+  <programme start="20261125151000 -0500" stop="20261125160000 -0500" channel="directvgo_americatvperu"><title lang="es">Al fondo hay sitio</title></programme>
+  <programme start="20261125160000 -0500" stop="20261125170000 -0500" channel="directvgo_americatvperu"><title lang="es">Los hilos del pasado</title></programme>
+  <programme start="20261125170000 -0500" stop="20261125180000 -0500" channel="directvgo_americatvperu"><title lang="es">El Chavo del 8</title></programme>
+  <programme start="20261125180000 -0500" stop="20261125193000 -0500" channel="directvgo_americatvperu"><title lang="es">Los milagros de la rosa, Perú</title></programme>
+  <programme start="20261125193000 -0500" stop="20261125210000 -0500" channel="directvgo_americatvperu"><title lang="es">Esto es guerra</title></programme>
+  <programme start="20261125210000 -0500" stop="20261125220000 -0500" channel="directvgo_americatvperu"><title lang="es">Al fondo hay sitio</title></programme>
+  <programme start="20261125220000 -0500" stop="20261125225000 -0500" channel="directvgo_americatvperu"><title lang="es">La vida que me robaste</title></programme>
+  <programme start="20261125225000 -0500" stop="20261125230000 -0500" channel="directvgo_americatvperu"><title lang="es">La Tinka</title></programme>
+  <programme start="20261125230000 -0500" stop="20261125231700 -0500" channel="directvgo_americatvperu"><title lang="es">América noticias: Edición central</title></programme>
+  <programme start="20261125231700 -0500" stop="20261125232400 -0500" channel="directvgo_americatvperu"><title lang="es">América Deportes</title></programme>
+  <programme start="20261125232400 -0500" stop="20261125232700 -0500" channel="directvgo_americatvperu"><title lang="es">América noticias: Edición central</title></programme>
+  <programme start="20261125232700 -0500" stop="20261125234500 -0500" channel="directvgo_americatvperu"><title lang="es">América espectáculos</title></programme>
+  <programme start="20261125234500 -0500" stop="20261126003000 -0500" channel="directvgo_americatvperu"><title lang="es">Desvelados</title></programme>
+
+  <!-- ==================== LATINA (Martes 24 Nov 2026) ==================== -->
+  <programme start="20261124050000 -0500" stop="20261124065000 -0500" channel="directvgo_latina"><title lang="es">Latina noticias despierta con matinal</title></programme>
+  <programme start="20261124065000 -0500" stop="20261124070000 -0500" channel="directvgo_latina"><title lang="es">Latina noticias matinal</title></programme>
+  <programme start="20261124070000 -0500" stop="20261124090000 -0500" channel="directvgo_latina"><title lang="es">Latina noticias matinal</title></programme>
+  <programme start="20261124090000 -0500" stop="20261124120000 -0500" channel="directvgo_latina"><title lang="es">Arriba mi gente</title></programme>
+  <programme start="20261124120000 -0500" stop="20261124150000 -0500" channel="directvgo_latina"><title lang="es">Latina noticias mediodía</title></programme>
+  <programme start="20261124150000 -0500" stop="20261124160000 -0500" channel="directvgo_latina"><title lang="es">Cuando los ángeles caen</title></programme>
+  <programme start="20261124160000 -0500" stop="20261124170000 -0500" channel="directvgo_latina"><title lang="es">Fruto prohibido</title></programme>
+  <programme start="20261124170000 -0500" stop="20261124180000 -0500" channel="directvgo_latina"><title lang="es">Por mi hijo</title></programme>
+  <programme start="20261124180000 -0500" stop="20261124190000 -0500" channel="directvgo_latina"><title lang="es">Mi vida por ti</title></programme>
+  <programme start="20261124190000 -0500" stop="20261124203000 -0500" channel="directvgo_latina"><title lang="es">Latina noticias central</title></programme>
+  <programme start="20261124203000 -0500" stop="20261124212000 -0500" channel="directvgo_latina"><title lang="es">Valentina valiente</title></programme>
+  <programme start="20261124212000 -0500" stop="20261124232000 -0500" channel="directvgo_latina"><title lang="es">Yo soy</title></programme>
+  <programme start="20261124232000 -0500" stop="20261125050000 -0500" channel="directvgo_latina"><title lang="es">Juan Carlos: La caída del Rey</title></programme>
+
+  <!-- ==================== ATV (Martes 24 Nov 2026) ==================== -->
+  <programme start="20261124010000 -0500" stop="20261124020000 -0500" channel="directvgo_atv9"><title lang="es">Los hombres de Paco</title></programme>
+  <programme start="20261124020000 -0500" stop="20261124040000 -0500" channel="directvgo_atv9"><title lang="es">Combate</title></programme>
+  <programme start="20261124040000 -0500" stop="20261124053000 -0500" channel="directvgo_atv9"><title lang="es">Águila Roja</title></programme>
+  <programme start="20261124053000 -0500" stop="20261124103000 -0500" channel="directvgo_atv9"><title lang="es">ATV noticias edición matinal</title></programme>
+  <programme start="20261124103000 -0500" stop="20261124120000 -0500" channel="directvgo_atv9"><title lang="es">Así de simple</title></programme>
+  <programme start="20261124120000 -0500" stop="20261124130000 -0500" channel="directvgo_atv9"><title lang="es">ATV Noticias edición mediodía</title></programme>
+  <programme start="20261124130000 -0500" stop="20261124140000 -0500" channel="directvgo_atv9"><title lang="es">Andrea</title></programme>
+  <programme start="20261124140000 -0500" stop="20261124153000 -0500" channel="directvgo_atv9"><title lang="es">La mujer en el espejo</title></programme>
+  <programme start="20261124153000 -0500" stop="20261124170000 -0500" channel="directvgo_atv9"><title lang="es">Amor eterno</title></programme>
+  <programme start="20261124170000 -0500" stop="20261124180000 -0500" channel="directvgo_atv9"><title lang="es">Esposa por obligación</title></programme>
+  <programme start="20261124180000 -0500" stop="20261124190000 -0500" channel="directvgo_atv9"><title lang="es">Tres hermanas</title></programme>
+  <programme start="20261124190000 -0500" stop="20261124200000 -0500" channel="directvgo_atv9"><title lang="es">Corazón abandonado</title></programme>
+  <programme start="20261124200000 -0500" stop="20261124213000 -0500" channel="directvgo_atv9"><title lang="es">Ocurre ahora</title></programme>
+  <programme start="20261124213000 -0500" stop="20261124230000 -0500" channel="directvgo_atv9"><title lang="es">Magaly TV, la firme</title></programme>
+  <programme start="20261124230000 -0500" stop="20261124235000 -0500" channel="directvgo_atv9"><title lang="es">ATV noticias edición central</title></programme>
+  <programme start="20261124235000 -0500" stop="20261125000000 -0500" channel="directvgo_atv9"><title lang="es">El deportivo en otra cancha</title></programme>
+  <programme start="20261125000000 -0500" stop="20261125010000 -0500" channel="directvgo_atv9"><title lang="es">The Walking Dead</title></programme>
+
+  <!-- ==================== PANAMERICANA TV (Martes 24 Nov 2026) ==================== -->
+  <programme start="20261124050000 -0500" stop="20261124053000 -0500" channel="directvgo_panamericanatv"><title lang="es">Telebrands</title></programme>
+  <programme start="20261124053000 -0500" stop="20261124060000 -0500" channel="directvgo_panamericanatv"><title lang="es">Buenos días, Perú</title></programme>
+  <programme start="20261124060000 -0500" stop="20261124073000 -0500" channel="directvgo_panamericanatv"><title lang="es">Buenos días, Perú</title></programme>
+  <programme start="20261124073000 -0500" stop="20261124093000 -0500" channel="directvgo_panamericanatv"><title lang="es">Buenos días, Perú</title></programme>
+  <programme start="20261124093000 -0500" stop="20261124100000 -0500" channel="directvgo_panamericanatv"><title lang="es">Quality Products</title></programme>
+  <programme start="20261124100000 -0500" stop="20261124101500 -0500" channel="directvgo_panamericanatv"><title lang="es">Fitosana</title></programme>
+  <programme start="20261124101500 -0500" stop="20261124104500 -0500" channel="directvgo_panamericanatv"><title lang="es">Telebrands</title></programme>
+  <programme start="20261124104500 -0500" stop="20261124120000 -0500" channel="directvgo_panamericanatv"><title lang="es">Detrás de Cámaras</title></programme>
+  <programme start="20261124120000 -0500" stop="20261124130000 -0500" channel="directvgo_panamericanatv"><title lang="es">24 horas</title></programme>
+  <programme start="20261124130000 -0500" stop="20261124150000 -0500" channel="directvgo_panamericanatv"><title lang="es">24 horas</title></programme>
+  <programme start="20261124150000 -0500" stop="20261124163000 -0500" channel="directvgo_panamericanatv"><title lang="es">La calle no calla</title></programme>
+  <programme start="20261124163000 -0500" stop="20261124180000 -0500" channel="directvgo_panamericanatv"><title lang="es">La hija del mariachi</title></programme>
+  <programme start="20261124180000 -0500" stop="20261124193000 -0500" channel="directvgo_panamericanatv"><title lang="es">La familia Ingalls</title></programme>
+  <programme start="20261124193000 -0500" stop="20261124203000 -0500" channel="directvgo_panamericanatv"><title lang="es">La Biblia</title></programme>
+  <programme start="20261124203000 -0500" stop="20261124220000 -0500" channel="directvgo_panamericanatv"><title lang="es">24 horas</title></programme>
+  <programme start="20261124220000 -0500" stop="20261124230000 -0500" channel="directvgo_panamericanatv"><title lang="es">Esta noche</title></programme>
+  <programme start="20261124230000 -0500" stop="20261124234500 -0500" channel="directvgo_panamericanatv"><title lang="es">Vale todo</title></programme>
+  <programme start="20261124234500 -0500" stop="20261125000000 -0500" channel="directvgo_panamericanatv"><title lang="es">MacGyver: El Juicio Final</title></programme>
+  <programme start="20261125000000 -0500" stop="20261125050000 -0500" channel="directvgo_panamericanatv"><title lang="es">MacGyver</title></programme>
+
+  <!-- ==================== WILLAX (Martes 24 Nov 2026) ==================== -->
+  <programme start="20261124053000 -0500" stop="20261124060000 -0500" channel="directvgo_willax"><title lang="es">Un día en el mall</title></programme>
+  <programme start="20261124060000 -0500" stop="20261124070000 -0500" channel="directvgo_willax"><title lang="es">Al día con Willax Nacional</title></programme>
+  <programme start="20261124070000 -0500" stop="20261124090000 -0500" channel="directvgo_willax"><title lang="es">Al dia con Willax</title></programme>
+  <programme start="20261124090000 -0500" stop="20261124093000 -0500" channel="directvgo_willax"><title lang="es">Espectáculos</title></programme>
+  <programme start="20261124093000 -0500" stop="20261124112500 -0500" channel="directvgo_willax"><title lang="es">¡Qué mañana!</title></programme>
+  <programme start="20261124112500 -0500" stop="20261124125000 -0500" channel="directvgo_willax"><title lang="es">Willax noticias edición mediodía</title></programme>
+  <programme start="20261124125000 -0500" stop="20261124134000 -0500" channel="directvgo_willax"><title lang="es">Te amaré por siempre</title></programme>
+  <programme start="20261124134000 -0500" stop="20261124143000 -0500" channel="directvgo_willax"><title lang="es">Esposa joven</title></programme>
+  <programme start="20261124143000 -0500" stop="20261124165500 -0500" channel="directvgo_willax"><title lang="es">Amor y fuego</title></programme>
+  <programme start="20261124165500 -0500" stop="20261124180000 -0500" channel="directvgo_willax"><title lang="es">Un día en el mall</title></programme>
+  <programme start="20261124180000 -0500" stop="20261124190000 -0500" channel="directvgo_willax"><title lang="es">Caso cerrado</title></programme>
+  <programme start="20261124190000 -0500" stop="20261124195500 -0500" channel="directvgo_willax"><title lang="es">Willax noticias edición central</title></programme>
+  <programme start="20261124195500 -0500" stop="20261124205500 -0500" channel="directvgo_willax"><title lang="es">Contracorriente</title></programme>
+  <programme start="20261124205500 -0500" stop="20261124220000 -0500" channel="directvgo_willax"><title lang="es">Beto a saber</title></programme>
+  <programme start="20261124220000 -0500" stop="20261124230000 -0500" channel="directvgo_willax"><title lang="es">Ahora y en la hora</title></programme>
+  <programme start="20261124230000 -0500" stop="20261125053000 -0500" channel="directvgo_willax"><title lang="es">La reina del sur</title></programme>
+
+  <!-- ==================== TV PERÚ (Martes 24 Nov 2026) ==================== -->
+  <programme start="20261124050000 -0500" stop="20261124053000 -0500" channel="directvgo_tvperu"><title lang="es">Jiwasanaka</title></programme>
+  <programme start="20261124053000 -0500" stop="20261124065000 -0500" channel="directvgo_tvperu"><title lang="es">Nuqanchik</title></programme>
+  <programme start="20261124065000 -0500" stop="20261124083000 -0500" channel="directvgo_tvperu"><title lang="es">Primera hora</title></programme>
+  <programme start="20261124083000 -0500" stop="20261124090000 -0500" channel="directvgo_tvperu"><title lang="es">Deporte express</title></programme>
+  <programme start="20261124090000 -0500" stop="20261124100000 -0500" channel="directvgo_tvperu"><title lang="es">Chicos IPE</title></programme>
+  <programme start="20261124100000 -0500" stop="20261124120000 -0500" channel="directvgo_tvperu"><title lang="es">Más conectados</title></programme>
+  <programme start="20261124120000 -0500" stop="20261124130000 -0500" channel="directvgo_tvperu"><title lang="es">Regiones ahora</title></programme>
+  <programme start="20261124130000 -0500" stop="20261124140000 -0500" channel="directvgo_tvperu"><title lang="es">Noticias ahora</title></programme>
+  <programme start="20261124140000 -0500" stop="20261124150000 -0500" channel="directvgo_tvperu"><title lang="es">Jiwasanaka; Ñuqanchick</title></programme>
+  <programme start="20261124150000 -0500" stop="20261124160000 -0500" channel="directvgo_tvperu"><title lang="es">Prevención y acción: Fenómeno "El Niño"</title></programme>
+  <programme start="20261124160000 -0500" stop="20261124170000 -0500" channel="directvgo_tvperu"><title lang="es">Aliados por la Seguridad</title></programme>
+  <programme start="20261124170000 -0500" stop="20261124180000 -0500" channel="directvgo_tvperu"><title lang="es">Sucedió en el Perú</title></programme>
+  <programme start="20261124180000 -0500" stop="20261124190000 -0500" channel="directvgo_tvperu"><title lang="es">Abramos el corazón</title></programme>
+  <programme start="20261124190000 -0500" stop="20261124200000 -0500" channel="directvgo_tvperu"><title lang="es">Destinos y sabores divinos</title></programme>
+  <programme start="20261124200000 -0500" stop="20261124210000 -0500" channel="directvgo_tvperu"><title lang="es">Hora central</title></programme>
+  <programme start="20261124210000 -0500" stop="20261124220000 -0500" channel="directvgo_tvperu"><title lang="es">En pared</title></programme>
+  <programme start="20261124220000 -0500" stop="20261124230000 -0500" channel="directvgo_tvperu"><title lang="es">El Congreso Informa</title></programme>
+  <programme start="20261124230000 -0500" stop="20261125050000 -0500" channel="directvgo_tvperu"><title lang="es">Abramos el corazón</title></programme>
+
+  <!-- ==================== OVACIÓN (Martes 24 Nov 2026) ==================== -->
+  <programme start="20261124010000 -0500" stop="20261124050000 -0500" channel="directvgo_ovacion"><title lang="es">Ovación</title></programme>
+  <programme start="20261124050000 -0500" stop="20261124090000 -0500" channel="directvgo_ovacion"><title lang="es">Ovación</title></programme>
+  <programme start="20261124090000 -0500" stop="20261124130000 -0500" channel="directvgo_ovacion"><title lang="es">Ovación</title></programme>
+  <programme start="20261124130000 -0500" stop="20261124170000 -0500" channel="directvgo_ovacion"><title lang="es">Ovación</title></programme>
+  <programme start="20261124170000 -0500" stop="20261124210000 -0500" channel="directvgo_ovacion"><title lang="es">Ovación</title></programme>
+  <programme start="20261124210000 -0500" stop="20261125010000 -0500" channel="directvgo_ovacion"><title lang="es">Ovación</title></programme>
+
+</tv>
