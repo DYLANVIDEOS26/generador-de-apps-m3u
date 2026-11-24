@@ -1,25 +1,25 @@
-#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml.gz" x-tvg-url="https://epg.programadorx.cl/mdiaz/gratis.xml.gz"
+#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml.gz"
 
 #EXTINF:-1 tvg-id="4mvstr.pe" tvg-logo="https://i.imgur.com/0qEWYWQ.png" group-title="Locales & Noticias", America TV Perú
-http://38.190.100.202:8000/play/a057/index.m3u8
+http://190.93.224.42/AMERICA-TV/index.m3u8
 
 #EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://i.imgur.com/Zky0thR.png" group-title="Locales & Noticias", ATV+
-http://38.190.100.202:8000/play/a05f/index.m3u8
+http://190.93.224.42/ATV-PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="9mvstr.pe" tvg-logo="https://i.imgur.com/4RNVWqP.png" group-title="Locales & Noticias", ATV9
-http://38.190.100.202:8000/play/a05k/index.m3u8
+http://190.93.224.42/ATV/index.m3u8
 
 #EXTINF:-1 tvg-id="Defiance Channel" tvg-logo="https://i.imgur.com/ehlMn3p.png" group-title="Locales & Noticias", Defiance Channel
 https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="8563mvstr.pe" tvg-logo="https://i.imgur.com/4hZDNzH.png" group-title="Locales & Noticias", Exitosa TV
-http://38.190.100.202:8000/play/a05b/index.m3u8
+http://190.93.224.42/EXITOSA/index.m3u8
 
 #EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://i.imgur.com/MJmGtGN.png" group-title="Locales & Noticias", Global
-http://38.190.100.202:8000/play/a0bg/index.m3u8
+http://190.93.224.42/GLOBAL/index.m3u8
 
 #EXTINF:-1 tvg-id="2mvstr.pe" tvg-logo="https://i.imgur.com/PBLumj8.png" group-title="Locales & Noticias", Latina
-http://38.190.100.202:8000/play/a03x/index.m3u8
+http://190.93.224.42/LATINA/index.m3u8
 
 #EXTINF:-1 tvg-id="623" tvg-logo="https://i.imgur.com/8HLH5d6.png" group-title="Locales & Noticias", Mega Noticias
 http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
@@ -28,7 +28,7 @@ http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
 http://15.204.196.147:22880/MEGATIEMPO-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
 
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://i.imgur.com/BmeHpWf.png" group-title="Locales & Noticias", Panamericana TV
-http://38.190.100.202:8000/play/a0ap/index.m3u8
+http://190.93.224.42/PANAMERICANA/index.m3u8
 
 #EXTINF:-1 tvg-id="656" tvg-logo="https://i.imgur.com/L7LTo5w.png" group-title="Locales & Noticias", PBO
 http://190.93.224.42/PBO/index.m3u8
@@ -37,28 +37,28 @@ http://190.93.224.42/PBO/index.m3u8
 https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
 
 #EXTINF:-1 tvg-id="475" tvg-logo="https://i.imgur.com/SDhlh83.png" group-title="Locales & Noticias", RPP
-http://38.190.100.202:8000/play/a05l/index.m3u8
+http://190.93.224.42/RPP/index.m3u8
 
 #EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://i.imgur.com/dSRl0yF.png" group-title="Locales & Noticias", TV Peru
-http://38.190.100.202:8000/play/a058/index.m3u8
+http://190.93.224.42/TV-PERU/index.m3u8
 
 #EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://i.imgur.com/xbgEdK7.png" group-title="Locales & Noticias", Willax
-http://38.190.100.202:8000/play/a059/index.m3u8
+http://190.93.224.42/WILLAX/index.m3u8
 
-#EXTINF:-1 tvg-id="610dtv.co" tvg-logo="https://i.imgur.com/IV3Coxv.png" group-title="Deportes", DSPORTS PER
-http://38.190.100.202:8000/play/a05n/index.m3u8
+#EXTINF:-1 tvg-id="610dtv.co" tvg-logo="https://i.imgur.com/LfwrKzb.png" group-title="Deportes", DSPORTS PER
+http://201.240.104.137:8000/play/a0c8/index.m3u8
 
-#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.imgur.com/skQYFKo.png" group-title="Deportes", DSPORTS 2
-http://38.190.100.202:8000/play/a05m/index.m3u8
+#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.imgur.com/1bD3N9i.png" group-title="Deportes", DSPORTS 2
+http://201.240.104.137:8000/play/dtv2/index.m3u8
 
-#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.imgur.com/z5CmWnZ.png" group-title="Deportes", DSPORTS +
-http://38.190.100.202:8000/play/a09q/index.m3u8
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.imgur.com/pZdQV0z.png" group-title="Deportes", DSPORTS +
+http://201.240.104.137:8000/play/dtvmas/index.m3u8
 
-#EXTINF:-1 tvg-id="603dtv.pe" tvg-logo="https://i.imgur.com/wY3m1sc.png" group-title="Deportes", L1
-http://38.190.100.202:8000/play/a03c/index.m3u8
+#EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://i.imgur.com/wY3m1sc.png" group-title="Deportes", L1
+https://cablered.iptvperu.tv:1936/cablered/Liga1_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://i.imgur.com/GQcAaqG.png" group-title="Deportes", L1MAX
-http://38.190.100.202:8000/play/a013/index.m3u8
+#EXTINF:-1 tvg-id="603dtv.pe" tvg-logo="https://i.imgur.com/GQcAaqG.png" group-title="Deportes", L1MAX
+https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sports Fan" tvg-logo="https://i.imgur.com/PLGgAS0.png" group-title="Deportes", TyC Sports Fan
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
